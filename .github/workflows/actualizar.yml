@@ -1,7 +1,7 @@
 name: actualizar
 on:
   schedule:
-    - cron: '0 4,16 * * *'
+    - cron: '0 4,16,22 * * *'
 jobs:
   update:
     name: actualizar
