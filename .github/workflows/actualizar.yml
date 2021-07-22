@@ -1,0 +1,30 @@
+name: actualizar
+on:
+  schedule:
+    - cron: '0 4,16 * * *'
+jobs:
+  update:
+    name: actualizar
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+      - name: python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6'
+      - name: configurar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r actualizar/requirements.txt
+      - name: actualizar
+        run: |
+          python actualizar/vacunas_unidoscontraelcovid.py
+      - name: commit
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.email "covid19-bot@example.com"
+          git config --global user.name "covid19-bot"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] actualización"; git push -q "https://$GH_TOKEN@github.com/mauforonda/vacunas_unidoscontraelcovid.git" master)
