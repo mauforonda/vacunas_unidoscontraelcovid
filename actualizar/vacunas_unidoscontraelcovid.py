@@ -10,10 +10,13 @@ import pandas as pd
 import os
 
 def descargar_pagina(page_number):
-    
-    url = 'https://www.unidoscontraelcovid.gob.bo/index.php/category/reportes/page/{}'.format(page_number )
-    response = requests.get(url)
-    return BeautifulSoup(response.text, 'html.parser')
+
+    url = 'https://www.unidoscontraelcovid.gob.bo/index.php/category/reportes/page/{}'.format(page_number)
+    try:
+        response = requests.get(url, timeout=5)
+        return BeautifulSoup(response.text, 'html.parser')
+    except Exception as e:
+        print(e)
 
 def listar_reportes(page, filtro):
     
@@ -26,11 +29,15 @@ def listar_reportes(page, filtro):
     return reportes
 
 def descargar_reporte(url):
-    
-    filename = 'reportes/{}'.format(url.split('/')[-1])
-    with open(filename, 'wb') as f:
-        f.write(requests.get(url).content)
-    return filename
+
+    try:
+        reporte_content = requests.get(url, timeout=5).content
+        filename = 'reportes/{}'.format(url.split('/')[-1])
+        with open(filename, 'wb') as f:
+            f.write(reporte_content)
+        return filename
+    except Exception as e:
+        print(e)
 
 def nuevos_reportes(reportes):
     
@@ -100,19 +107,23 @@ def consolidar(df):
     
 # Consultar la página web
 website = descargar_pagina(1)
-# Listar reportes que mencionan `vacuna` en el enlace
-reportes = listar_reportes(website, 'vacuna')
-# Para cada nuevo reporte
-for reporte in nuevos_reportes(reportes):
-    # Descargar el reporte
-    filename = descargar_reporte(reporte)
-    # Abrirlo
-    pdf = pdfplumber.open(filename)
-    # De qué fecha es
-    date = que_fecha(pdf)
-    # En qué página está la tabla que me interesa
-    page = query_paginas(pdf, 'cantidad de dosis de la vacuna covid-19 aplicadas según proveedor')
-    # Extraer la tabla
-    df = extraer_tabla(page)
-    # Guardarla
-    consolidar(df)
+# Si la página está disponible
+if website is not None:
+    # Listar reportes que mencionan `vacuna` en el enlace
+    reportes = listar_reportes(website, 'vacuna')
+    # Para cada nuevo reporte
+    for reporte in nuevos_reportes(reportes):
+        # Descargar el reporte
+        filename = descargar_reporte(reporte)
+        # Si el reporte está disponible
+        if filename is not None:
+            # Abrirlo
+            pdf = pdfplumber.open(filename)
+            # De qué fecha es
+            date = que_fecha(pdf)
+            # En qué página está la tabla que me interesa
+            page = query_paginas(pdf, 'cantidad de dosis de la vacuna covid-19 aplicadas según proveedor')
+            # Extraer la tabla
+            df = extraer_tabla(page)
+            # Guardarla
+            consolidar(df)
