@@ -98,7 +98,7 @@ def consolidar(df):
     for departamento, fila in df.iterrows():
         fila = pd.DataFrame(fila).T
         fila.index = [date]
-        csv_file = 'dosis_por_proveedor/{}.csv'.format(departamento.replace(' ', '_').replace('potosi', 'potosí'))
+        csv_file = 'dosis_por_proveedor/{}.csv'.format(departamento.replace(' ', '_'))
         df2 = pd.concat([pd.read_csv(csv_file, parse_dates=[0], index_col=[0]), fila]).fillna(0).astype(int)
         df2 = df2[~df2.index.duplicated(keep='last')]
         df2.sort_index().to_csv(csv_file)
