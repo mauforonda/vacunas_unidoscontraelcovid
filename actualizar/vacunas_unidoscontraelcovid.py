@@ -106,7 +106,7 @@ def consolidar(df):
 # ----------------------------
     
 # Consultar la página web
-website = descargar_pagina(1)
+website = descargar_pagina(2)
 # Si la página está disponible
 if website is not None:
     # Listar reportes que mencionan `vacuna` en el enlace
