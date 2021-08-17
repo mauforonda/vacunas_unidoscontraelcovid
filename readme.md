@@ -1,5 +1,7 @@
 > Registro estructurado del [reporte diario](https://unidoscontraelcovid.gob.bo) de dosis aplicadas de vacunas contra la covid-19 en Bolivia por departamento, vacuna y tipo de dosis.
 
+Dosis aplicadas por departamento:
+
 - [Beni](dosis_por_proveedor/beni.csv)
 - [Chuquisaca](dosis_por_proveedor/chuquisaca.csv)
 - [Cochabamba](dosis_por_proveedor/cochabamba.csv)
@@ -9,3 +11,8 @@
 - [Potosí](dosis_por_proveedor/potosí.csv)
 - [Santa Cruz](dosis_por_proveedor/santa_cruz.csv)
 - [Tarija](dosis_por_proveedor/tarija.csv)
+
+Cobertura de población vacunada:
+
+- [Cobertura de primeras dosis según grupo de edad a nivel nacional](cobertura/por_edad_esquema_completo.csv)
+- [Cobertura de esquema completo (2das dosis + Janssen) según grupo de edad a nivel nacional](cobertura/por_edad_esquema_completo.csv)

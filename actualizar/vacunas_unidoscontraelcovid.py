@@ -103,6 +103,21 @@ def consolidar(df):
         df2 = df2[~df2.index.duplicated(keep='last')]
         df2.sort_index().to_csv(csv_file)
 
+def extraer_barras(page):
+    
+    valores = page.within_bbox((.12 * float(page.width), 0.1 * float(page.height), .9 * float(page.width), .75 * float(page.height))).extract_words()
+    return pd.DataFrame([pd.DataFrame(valores).sort_values('x0').text.apply(lambda x: float(x.replace('%', '')) / 100).tolist()], columns=['18 a 29', '30 a 39', '40 a 49', '50 a 59', '60 y más', 'Bolivia'], index=[date])
+
+def cobertura(pdf, query, csv_file):
+    
+    page = query_paginas(pdf, query)
+    if page:
+        barras = extraer_barras(page)
+        csv_df = pd.read_csv(csv_file, parse_dates=[0], index_col=0)
+        csv_df = pd.concat([csv_df, barras])
+        csv_df = csv_df[~csv_df.index.duplicated(keep='last')]
+        csv_df.sort_index().to_csv(csv_file)
+        
 # ----------------------------
     
 # Consultar la página web
@@ -127,3 +142,6 @@ if website is not None:
             df = extraer_tabla(page)
             # Guardarla
             consolidar(df)
+            # Extraer y consolidar coberturas por población y tipo de dosis
+            cobertura(pdf, 'cobertura de población vacunada con 1ra dosis según', 'cobertura/por_edad_primera_dosis.csv')
+            cobertura(pdf, 'cobertura de población vacunada con esquema completo', 'cobertura/por_edad_esquema_completo.csv')
