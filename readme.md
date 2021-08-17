@@ -16,6 +16,3 @@ Cobertura de población vacunada:
 
 - [Cobertura de primeras dosis según grupo de edad a nivel nacional](cobertura/por_edad_primera_dosis.csv)
 - [Cobertura de esquema completo (2das dosis + Janssen) según grupo de edad a nivel nacional](cobertura/por_edad_esquema_completo.csv)
-
-por_edad_esquema_completo.csv
-por_edad_primera_dosis.csv
