@@ -20,6 +20,9 @@ jobs:
       - name: actualizar
         run: |
           python actualizar/vacunas_unidoscontraelcovid.py
+      - name: consolidar
+        run: |
+          python actualizar/consolidar.py
       - name: commit
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

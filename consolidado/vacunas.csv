@@ -1,0 +1,3961 @@
+fecha,tipo,departamento,dosis
+2021-02-03,primera,Beni,48
+2021-02-03,primera,Chuquisaca,303
+2021-02-03,primera,Cochabamba,687
+2021-02-03,primera,La Paz,361
+2021-02-03,primera,Oruro,106
+2021-02-03,primera,Pando,388
+2021-02-03,primera,Potosi,203
+2021-02-03,primera,Santa Cruz,1264
+2021-02-03,primera,Tarija,200
+2021-02-04,primera,Beni,63
+2021-02-04,primera,Chuquisaca,304
+2021-02-04,primera,Cochabamba,1044
+2021-02-04,primera,La Paz,1030
+2021-02-04,primera,Oruro,195
+2021-02-04,primera,Pando,488
+2021-02-04,primera,Potosi,293
+2021-02-04,primera,Santa Cruz,1393
+2021-02-04,primera,Tarija,362
+2021-02-05,primera,Beni,154
+2021-02-05,primera,Chuquisaca,529
+2021-02-05,primera,Cochabamba,1369
+2021-02-05,primera,La Paz,1783
+2021-02-05,primera,Oruro,300
+2021-02-05,primera,Pando,550
+2021-02-05,primera,Potosi,396
+2021-02-05,primera,Santa Cruz,1638
+2021-02-05,primera,Tarija,711
+2021-02-06,primera,Beni,170
+2021-02-06,primera,Chuquisaca,530
+2021-02-06,primera,Cochabamba,1369
+2021-02-06,primera,La Paz,1859
+2021-02-06,primera,Oruro,412
+2021-02-06,primera,Pando,550
+2021-02-06,primera,Potosi,396
+2021-02-06,primera,Santa Cruz,1638
+2021-02-06,primera,Tarija,712
+2021-02-07,primera,Beni,199
+2021-02-07,primera,Chuquisaca,530
+2021-02-07,primera,Cochabamba,1369
+2021-02-07,primera,La Paz,1859
+2021-02-07,primera,Oruro,499
+2021-02-07,primera,Pando,550
+2021-02-07,primera,Potosi,396
+2021-02-07,primera,Santa Cruz,1638
+2021-02-07,primera,Tarija,712
+2021-02-08,primera,Beni,408
+2021-02-08,primera,Chuquisaca,690
+2021-02-08,primera,Cochabamba,1525
+2021-02-08,primera,La Paz,1938
+2021-02-08,primera,Oruro,700
+2021-02-08,primera,Pando,550
+2021-02-08,primera,Potosi,432
+2021-02-08,primera,Santa Cruz,1879
+2021-02-08,primera,Tarija,783
+2021-02-09,primera,Beni,570
+2021-02-09,primera,Chuquisaca,776
+2021-02-09,primera,Cochabamba,1666
+2021-02-09,primera,La Paz,1987
+2021-02-09,primera,Oruro,715
+2021-02-09,primera,Pando,550
+2021-02-09,primera,Potosi,463
+2021-02-09,primera,Santa Cruz,2200
+2021-02-09,primera,Tarija,825
+2021-02-10,primera,Beni,587
+2021-02-10,primera,Chuquisaca,776
+2021-02-10,primera,Cochabamba,1674
+2021-02-10,primera,La Paz,2006
+2021-02-10,primera,Oruro,715
+2021-02-10,primera,Pando,550
+2021-02-10,primera,Potosi,816
+2021-02-10,primera,Santa Cruz,2218
+2021-02-10,primera,Tarija,825
+2021-02-22,primera,Beni,603
+2021-02-22,primera,Chuquisaca,881
+2021-02-22,primera,Cochabamba,1674
+2021-02-22,primera,La Paz,2009
+2021-02-22,primera,Oruro,715
+2021-02-22,primera,Pando,550
+2021-02-22,primera,Potosi,826
+2021-02-22,primera,Santa Cruz,2218
+2021-02-22,primera,Tarija,825
+2021-02-22,segunda,Beni,0
+2021-02-22,segunda,Chuquisaca,10
+2021-02-22,segunda,Cochabamba,24
+2021-02-22,segunda,La Paz,12
+2021-02-22,segunda,Oruro,0
+2021-02-22,segunda,Pando,85
+2021-02-22,segunda,Potosi,54
+2021-02-22,segunda,Santa Cruz,0
+2021-02-22,segunda,Tarija,25
+2021-02-23,primera,Beni,603
+2021-02-23,primera,Chuquisaca,881
+2021-02-23,primera,Cochabamba,1674
+2021-02-23,primera,La Paz,2009
+2021-02-23,primera,Oruro,715
+2021-02-23,primera,Pando,550
+2021-02-23,primera,Potosi,826
+2021-02-23,primera,Santa Cruz,2218
+2021-02-23,primera,Tarija,825
+2021-02-23,segunda,Beni,6
+2021-02-23,segunda,Chuquisaca,122
+2021-02-23,segunda,Cochabamba,166
+2021-02-23,segunda,La Paz,31
+2021-02-23,segunda,Oruro,25
+2021-02-23,segunda,Pando,239
+2021-02-23,segunda,Potosi,123
+2021-02-23,segunda,Santa Cruz,244
+2021-02-23,segunda,Tarija,74
+2021-02-24,primera,Beni,603
+2021-02-24,primera,Chuquisaca,881
+2021-02-24,primera,Cochabamba,1674
+2021-02-24,primera,La Paz,2009
+2021-02-24,primera,Oruro,715
+2021-02-24,primera,Pando,550
+2021-02-24,primera,Potosi,826
+2021-02-24,primera,Santa Cruz,2218
+2021-02-24,primera,Tarija,825
+2021-02-24,segunda,Beni,42
+2021-02-24,segunda,Chuquisaca,276
+2021-02-24,segunda,Cochabamba,588
+2021-02-24,segunda,La Paz,264
+2021-02-24,segunda,Oruro,99
+2021-02-24,segunda,Pando,349
+2021-02-24,segunda,Potosi,173
+2021-02-24,segunda,Santa Cruz,619
+2021-02-24,segunda,Tarija,224
+2021-02-25,primera,Beni,603
+2021-02-25,primera,Chuquisaca,881
+2021-02-25,primera,Cochabamba,1674
+2021-02-25,primera,La Paz,2033
+2021-02-25,primera,Oruro,715
+2021-02-25,primera,Pando,550
+2021-02-25,primera,Potosi,826
+2021-02-25,primera,Santa Cruz,2218
+2021-02-25,primera,Tarija,825
+2021-02-25,segunda,Beni,43
+2021-02-25,segunda,Chuquisaca,299
+2021-02-25,segunda,Cochabamba,1320
+2021-02-25,segunda,La Paz,1918
+2021-02-25,segunda,Oruro,281
+2021-02-25,segunda,Pando,439
+2021-02-25,segunda,Potosi,265
+2021-02-25,segunda,Santa Cruz,1664
+2021-02-25,segunda,Tarija,401
+2021-02-28,primera,Beni,603
+2021-02-28,primera,Chuquisaca,881
+2021-02-28,primera,Cochabamba,1674
+2021-02-28,primera,La Paz,2033
+2021-02-28,primera,Oruro,715
+2021-02-28,primera,Pando,550
+2021-02-28,primera,Potosi,826
+2021-02-28,primera,Santa Cruz,2218
+2021-02-28,primera,Tarija,825
+2021-02-28,segunda,Beni,237
+2021-02-28,segunda,Chuquisaca,524
+2021-02-28,segunda,Cochabamba,1320
+2021-02-28,segunda,La Paz,1918
+2021-02-28,segunda,Oruro,487
+2021-02-28,segunda,Pando,515
+2021-02-28,segunda,Potosi,365
+2021-02-28,segunda,Santa Cruz,1664
+2021-02-28,segunda,Tarija,672
+2021-03-02,primera,Beni,603
+2021-03-02,primera,Chuquisaca,881
+2021-03-02,primera,Cochabamba,1674
+2021-03-02,primera,La Paz,2033
+2021-03-02,primera,Oruro,715
+2021-03-02,primera,Pando,550
+2021-03-02,primera,Potosi,826
+2021-03-02,primera,Santa Cruz,2218
+2021-03-02,primera,Tarija,825
+2021-03-02,segunda,Beni,469
+2021-03-02,segunda,Chuquisaca,767
+2021-03-02,segunda,Cochabamba,1625
+2021-03-02,segunda,La Paz,1918
+2021-03-02,segunda,Oruro,697
+2021-03-02,segunda,Pando,515
+2021-03-02,segunda,Potosi,566
+2021-03-02,segunda,Santa Cruz,1810
+2021-03-02,segunda,Tarija,795
+2021-03-03,primera,Beni,603
+2021-03-03,primera,Chuquisaca,881
+2021-03-03,primera,Cochabamba,1674
+2021-03-03,primera,La Paz,2033
+2021-03-03,primera,Oruro,715
+2021-03-03,primera,Pando,550
+2021-03-03,primera,Potosi,826
+2021-03-03,primera,Santa Cruz,2218
+2021-03-03,primera,Tarija,825
+2021-03-03,segunda,Beni,473
+2021-03-03,segunda,Chuquisaca,767
+2021-03-03,segunda,Cochabamba,1661
+2021-03-03,segunda,La Paz,1918
+2021-03-03,segunda,Oruro,697
+2021-03-03,segunda,Pando,515
+2021-03-03,segunda,Potosi,647
+2021-03-03,segunda,Santa Cruz,2062
+2021-03-03,segunda,Tarija,800
+2021-03-04,primera,Beni,603
+2021-03-04,primera,Chuquisaca,881
+2021-03-04,primera,Cochabamba,1674
+2021-03-04,primera,La Paz,2033
+2021-03-04,primera,Oruro,715
+2021-03-04,primera,Pando,550
+2021-03-04,primera,Potosi,826
+2021-03-04,primera,Santa Cruz,2218
+2021-03-04,primera,Tarija,825
+2021-03-04,segunda,Beni,479
+2021-03-04,segunda,Chuquisaca,789
+2021-03-04,segunda,Cochabamba,1664
+2021-03-04,segunda,La Paz,1918
+2021-03-04,segunda,Oruro,699
+2021-03-04,segunda,Pando,515
+2021-03-04,segunda,Potosi,696
+2021-03-04,segunda,Santa Cruz,2140
+2021-03-04,segunda,Tarija,800
+2021-03-05,primera,Beni,603
+2021-03-05,primera,Chuquisaca,881
+2021-03-05,primera,Cochabamba,1674
+2021-03-05,primera,La Paz,2033
+2021-03-05,primera,Oruro,715
+2021-03-05,primera,Pando,550
+2021-03-05,primera,Potosi,826
+2021-03-05,primera,Santa Cruz,2218
+2021-03-05,primera,Tarija,825
+2021-03-05,segunda,Beni,486
+2021-03-05,segunda,Chuquisaca,823
+2021-03-05,segunda,Cochabamba,1664
+2021-03-05,segunda,La Paz,1918
+2021-03-05,segunda,Oruro,700
+2021-03-05,segunda,Pando,523
+2021-03-05,segunda,Potosi,721
+2021-03-05,segunda,Santa Cruz,2147
+2021-03-05,segunda,Tarija,803
+2021-03-06,primera,Beni,4861
+2021-03-06,primera,Chuquisaca,8577
+2021-03-06,primera,Cochabamba,16364
+2021-03-06,primera,La Paz,23147
+2021-03-06,primera,Oruro,6149
+2021-03-06,primera,Pando,1553
+2021-03-06,primera,Potosi,4995
+2021-03-06,primera,Santa Cruz,24235
+2021-03-06,primera,Tarija,6516
+2021-03-06,segunda,Beni,486
+2021-03-06,segunda,Chuquisaca,823
+2021-03-06,segunda,Cochabamba,1664
+2021-03-06,segunda,La Paz,1918
+2021-03-06,segunda,Oruro,700
+2021-03-06,segunda,Pando,523
+2021-03-06,segunda,Potosi,721
+2021-03-06,segunda,Santa Cruz,2147
+2021-03-06,segunda,Tarija,803
+2021-03-07,primera,Beni,4921
+2021-03-07,primera,Chuquisaca,8629
+2021-03-07,primera,Cochabamba,16435
+2021-03-07,primera,La Paz,23589
+2021-03-07,primera,Oruro,6151
+2021-03-07,primera,Pando,1553
+2021-03-07,primera,Potosi,5028
+2021-03-07,primera,Santa Cruz,24295
+2021-03-07,primera,Tarija,6519
+2021-03-07,segunda,Beni,486
+2021-03-07,segunda,Chuquisaca,823
+2021-03-07,segunda,Cochabamba,1664
+2021-03-07,segunda,La Paz,1918
+2021-03-07,segunda,Oruro,700
+2021-03-07,segunda,Pando,523
+2021-03-07,segunda,Potosi,721
+2021-03-07,segunda,Santa Cruz,2147
+2021-03-07,segunda,Tarija,803
+2021-03-08,primera,Beni,5170
+2021-03-08,primera,Chuquisaca,8961
+2021-03-08,primera,Cochabamba,17494
+2021-03-08,primera,La Paz,24431
+2021-03-08,primera,Oruro,6436
+2021-03-08,primera,Pando,1602
+2021-03-08,primera,Potosi,5197
+2021-03-08,primera,Santa Cruz,26242
+2021-03-08,primera,Tarija,6703
+2021-03-08,segunda,Beni,507
+2021-03-08,segunda,Chuquisaca,823
+2021-03-08,segunda,Cochabamba,1664
+2021-03-08,segunda,La Paz,1918
+2021-03-08,segunda,Oruro,700
+2021-03-08,segunda,Pando,528
+2021-03-08,segunda,Potosi,740
+2021-03-08,segunda,Santa Cruz,2147
+2021-03-08,segunda,Tarija,803
+2021-03-09,primera,Beni,5448
+2021-03-09,primera,Chuquisaca,9272
+2021-03-09,primera,Cochabamba,18542
+2021-03-09,primera,La Paz,25568
+2021-03-09,primera,Oruro,6611
+2021-03-09,primera,Pando,1674
+2021-03-09,primera,Potosi,5603
+2021-03-09,primera,Santa Cruz,29448
+2021-03-09,primera,Tarija,7044
+2021-03-09,segunda,Beni,510
+2021-03-09,segunda,Chuquisaca,823
+2021-03-09,segunda,Cochabamba,1664
+2021-03-09,segunda,La Paz,1918
+2021-03-09,segunda,Oruro,700
+2021-03-09,segunda,Pando,528
+2021-03-09,segunda,Potosi,774
+2021-03-09,segunda,Santa Cruz,2148
+2021-03-09,segunda,Tarija,805
+2021-03-10,primera,Beni,5719
+2021-03-10,primera,Chuquisaca,9721
+2021-03-10,primera,Cochabamba,20285
+2021-03-10,primera,La Paz,27254
+2021-03-10,primera,Oruro,6821
+2021-03-10,primera,Pando,1759
+2021-03-10,primera,Potosi,6035
+2021-03-10,primera,Santa Cruz,31858
+2021-03-10,primera,Tarija,7559
+2021-03-10,segunda,Beni,510
+2021-03-10,segunda,Chuquisaca,823
+2021-03-10,segunda,Cochabamba,1664
+2021-03-10,segunda,La Paz,1918
+2021-03-10,segunda,Oruro,700
+2021-03-10,segunda,Pando,528
+2021-03-10,segunda,Potosi,776
+2021-03-10,segunda,Santa Cruz,2154
+2021-03-10,segunda,Tarija,805
+2021-03-11,primera,Beni,5881
+2021-03-11,primera,Chuquisaca,10247
+2021-03-11,primera,Cochabamba,21453
+2021-03-11,primera,La Paz,28436
+2021-03-11,primera,Oruro,6966
+2021-03-11,primera,Pando,1828
+2021-03-11,primera,Potosi,6321
+2021-03-11,primera,Santa Cruz,33224
+2021-03-11,primera,Tarija,7992
+2021-03-11,segunda,Beni,511
+2021-03-11,segunda,Chuquisaca,861
+2021-03-11,segunda,Cochabamba,1664
+2021-03-11,segunda,La Paz,1918
+2021-03-11,segunda,Oruro,700
+2021-03-11,segunda,Pando,528
+2021-03-11,segunda,Potosi,788
+2021-03-11,segunda,Santa Cruz,2158
+2021-03-11,segunda,Tarija,810
+2021-03-12,primera,Beni,6016
+2021-03-12,primera,Chuquisaca,10676
+2021-03-12,primera,Cochabamba,22558
+2021-03-12,primera,La Paz,29585
+2021-03-12,primera,Oruro,7109
+2021-03-12,primera,Pando,1966
+2021-03-12,primera,Potosi,6596
+2021-03-12,primera,Santa Cruz,34211
+2021-03-12,primera,Tarija,8482
+2021-03-12,segunda,Beni,511
+2021-03-12,segunda,Chuquisaca,869
+2021-03-12,segunda,Cochabamba,1664
+2021-03-12,segunda,La Paz,1918
+2021-03-12,segunda,Oruro,700
+2021-03-12,segunda,Pando,532
+2021-03-12,segunda,Potosi,788
+2021-03-12,segunda,Santa Cruz,2159
+2021-03-12,segunda,Tarija,810
+2021-03-13,primera,Beni,6022
+2021-03-13,primera,Chuquisaca,10723
+2021-03-13,primera,Cochabamba,22732
+2021-03-13,primera,La Paz,29871
+2021-03-13,primera,Oruro,7109
+2021-03-13,primera,Pando,1974
+2021-03-13,primera,Potosi,6596
+2021-03-13,primera,Santa Cruz,34241
+2021-03-13,primera,Tarija,8568
+2021-03-13,segunda,Beni,511
+2021-03-13,segunda,Chuquisaca,869
+2021-03-13,segunda,Cochabamba,1664
+2021-03-13,segunda,La Paz,1918
+2021-03-13,segunda,Oruro,700
+2021-03-13,segunda,Pando,532
+2021-03-13,segunda,Potosi,788
+2021-03-13,segunda,Santa Cruz,2159
+2021-03-13,segunda,Tarija,810
+2021-03-14,primera,Beni,6022
+2021-03-14,primera,Chuquisaca,10762
+2021-03-14,primera,Cochabamba,22822
+2021-03-14,primera,La Paz,30149
+2021-03-14,primera,Oruro,7109
+2021-03-14,primera,Pando,1974
+2021-03-14,primera,Potosi,6603
+2021-03-14,primera,Santa Cruz,34258
+2021-03-14,primera,Tarija,8568
+2021-03-14,segunda,Beni,511
+2021-03-14,segunda,Chuquisaca,869
+2021-03-14,segunda,Cochabamba,1664
+2021-03-14,segunda,La Paz,1918
+2021-03-14,segunda,Oruro,700
+2021-03-14,segunda,Pando,532
+2021-03-14,segunda,Potosi,788
+2021-03-14,segunda,Santa Cruz,2159
+2021-03-14,segunda,Tarija,810
+2021-03-15,primera,Beni,6172
+2021-03-15,primera,Chuquisaca,10913
+2021-03-15,primera,Cochabamba,23429
+2021-03-15,primera,La Paz,31210
+2021-03-15,primera,Oruro,7221
+2021-03-15,primera,Pando,2088
+2021-03-15,primera,Potosi,6796
+2021-03-15,primera,Santa Cruz,35021
+2021-03-15,primera,Tarija,8964
+2021-03-15,segunda,Beni,550
+2021-03-15,segunda,Chuquisaca,869
+2021-03-15,segunda,Cochabamba,1664
+2021-03-15,segunda,La Paz,1918
+2021-03-15,segunda,Oruro,706
+2021-03-15,segunda,Pando,532
+2021-03-15,segunda,Potosi,788
+2021-03-15,segunda,Santa Cruz,2159
+2021-03-15,segunda,Tarija,810
+2021-03-16,primera,Beni,6303
+2021-03-16,primera,Chuquisaca,11166
+2021-03-16,primera,Cochabamba,24375
+2021-03-16,primera,La Paz,32567
+2021-03-16,primera,Oruro,7273
+2021-03-16,primera,Pando,2123
+2021-03-16,primera,Potosi,6971
+2021-03-16,primera,Santa Cruz,35892
+2021-03-16,primera,Tarija,9362
+2021-03-16,segunda,Beni,550
+2021-03-16,segunda,Chuquisaca,869
+2021-03-16,segunda,Cochabamba,1664
+2021-03-16,segunda,La Paz,1918
+2021-03-16,segunda,Oruro,706
+2021-03-16,segunda,Pando,532
+2021-03-16,segunda,Potosi,799
+2021-03-16,segunda,Santa Cruz,2159
+2021-03-16,segunda,Tarija,810
+2021-03-17,primera,Beni,6435
+2021-03-17,primera,Chuquisaca,11599
+2021-03-17,primera,Cochabamba,25442
+2021-03-17,primera,La Paz,33655
+2021-03-17,primera,Oruro,7344
+2021-03-17,primera,Pando,2199
+2021-03-17,primera,Potosi,7164
+2021-03-17,primera,Santa Cruz,36578
+2021-03-17,primera,Tarija,10116
+2021-03-17,segunda,Beni,594
+2021-03-17,segunda,Chuquisaca,869
+2021-03-17,segunda,Cochabamba,1664
+2021-03-17,segunda,La Paz,1918
+2021-03-17,segunda,Oruro,706
+2021-03-17,segunda,Pando,532
+2021-03-17,segunda,Potosi,809
+2021-03-17,segunda,Santa Cruz,2159
+2021-03-17,segunda,Tarija,810
+2021-03-18,primera,Beni,6592
+2021-03-18,primera,Chuquisaca,12086
+2021-03-18,primera,Cochabamba,26126
+2021-03-18,primera,La Paz,34558
+2021-03-18,primera,Oruro,7450
+2021-03-18,primera,Pando,2313
+2021-03-18,primera,Potosi,7416
+2021-03-18,primera,Santa Cruz,37537
+2021-03-18,primera,Tarija,10738
+2021-03-18,segunda,Beni,597
+2021-03-18,segunda,Chuquisaca,869
+2021-03-18,segunda,Cochabamba,1664
+2021-03-18,segunda,La Paz,1919
+2021-03-18,segunda,Oruro,846
+2021-03-18,segunda,Pando,532
+2021-03-18,segunda,Potosi,810
+2021-03-18,segunda,Santa Cruz,3046
+2021-03-18,segunda,Tarija,846
+2021-03-19,primera,Beni,6636
+2021-03-19,primera,Chuquisaca,12293
+2021-03-19,primera,Cochabamba,28861
+2021-03-19,primera,La Paz,35465
+2021-03-19,primera,Oruro,7529
+2021-03-19,primera,Pando,2338
+2021-03-19,primera,Potosi,7529
+2021-03-19,primera,Santa Cruz,38312
+2021-03-19,primera,Tarija,11082
+2021-03-19,segunda,Beni,597
+2021-03-19,segunda,Chuquisaca,1637
+2021-03-19,segunda,Cochabamba,1664
+2021-03-19,segunda,La Paz,2938
+2021-03-19,segunda,Oruro,1987
+2021-03-19,segunda,Pando,532
+2021-03-19,segunda,Potosi,819
+2021-03-19,segunda,Santa Cruz,5711
+2021-03-19,segunda,Tarija,1054
+2021-03-20,primera,Beni,6666
+2021-03-20,primera,Chuquisaca,12340
+2021-03-20,primera,Cochabamba,26963
+2021-03-20,primera,La Paz,35589
+2021-03-20,primera,Oruro,7607
+2021-03-20,primera,Pando,2338
+2021-03-20,primera,Potosi,7555
+2021-03-20,primera,Santa Cruz,38316
+2021-03-20,primera,Tarija,11214
+2021-03-20,segunda,Beni,645
+2021-03-20,segunda,Chuquisaca,1864
+2021-03-20,segunda,Cochabamba,1664
+2021-03-20,segunda,La Paz,3275
+2021-03-20,segunda,Oruro,2924
+2021-03-20,segunda,Pando,532
+2021-03-20,segunda,Potosi,819
+2021-03-20,segunda,Santa Cruz,5763
+2021-03-20,segunda,Tarija,1086
+2021-03-21,primera,Beni,6698
+2021-03-21,primera,Chuquisaca,12350
+2021-03-21,primera,Cochabamba,27018
+2021-03-21,primera,La Paz,35628
+2021-03-21,primera,Oruro,7668
+2021-03-21,primera,Pando,2338
+2021-03-21,primera,Potosi,7572
+2021-03-21,primera,Santa Cruz,38316
+2021-03-21,primera,Tarija,11387
+2021-03-21,segunda,Beni,645
+2021-03-21,segunda,Chuquisaca,1973
+2021-03-21,segunda,Cochabamba,1664
+2021-03-21,segunda,La Paz,3425
+2021-03-21,segunda,Oruro,3574
+2021-03-21,segunda,Pando,532
+2021-03-21,segunda,Potosi,819
+2021-03-21,segunda,Santa Cruz,5763
+2021-03-21,segunda,Tarija,1107
+2021-03-22,primera,Beni,6772
+2021-03-22,primera,Chuquisaca,12504
+2021-03-22,primera,Cochabamba,27614
+2021-03-22,primera,La Paz,36625
+2021-03-22,primera,Oruro,7803
+2021-03-22,primera,Pando,2375
+2021-03-22,primera,Potosi,7693
+2021-03-22,primera,Santa Cruz,39000
+2021-03-22,primera,Tarija,11566
+2021-03-22,segunda,Beni,823
+2021-03-22,segunda,Chuquisaca,3262
+2021-03-22,segunda,Cochabamba,1978
+2021-03-22,segunda,La Paz,6068
+2021-03-22,segunda,Oruro,4458
+2021-03-22,segunda,Pando,751
+2021-03-22,segunda,Potosi,939
+2021-03-22,segunda,Santa Cruz,8198
+2021-03-22,segunda,Tarija,1758
+2021-03-23,primera,Beni,6879
+2021-03-23,primera,Chuquisaca,12742
+2021-03-23,primera,Cochabamba,29162
+2021-03-23,primera,La Paz,37388
+2021-03-23,primera,Oruro,7938
+2021-03-23,primera,Pando,2419
+2021-03-23,primera,Potosi,7851
+2021-03-23,primera,Santa Cruz,39757
+2021-03-23,primera,Tarija,11826
+2021-03-23,segunda,Beni,1336
+2021-03-23,segunda,Chuquisaca,5553
+2021-03-23,segunda,Cochabamba,4191
+2021-03-23,segunda,La Paz,10444
+2021-03-23,segunda,Oruro,4931
+2021-03-23,segunda,Pando,906
+2021-03-23,segunda,Potosi,1384
+2021-03-23,segunda,Santa Cruz,10415
+2021-03-23,segunda,Tarija,2982
+2021-03-24,primera,Beni,6998
+2021-03-24,primera,Chuquisaca,12959
+2021-03-24,primera,Cochabamba,31661
+2021-03-24,primera,La Paz,38185
+2021-03-24,primera,Oruro,8096
+2021-03-24,primera,Pando,2511
+2021-03-24,primera,Potosi,8068
+2021-03-24,primera,Santa Cruz,40458
+2021-03-24,primera,Tarija,11968
+2021-03-24,segunda,Beni,1966
+2021-03-24,segunda,Chuquisaca,7202
+2021-03-24,segunda,Cochabamba,7689
+2021-03-24,segunda,La Paz,14336
+2021-03-24,segunda,Oruro,5201
+2021-03-24,segunda,Pando,1009
+2021-03-24,segunda,Potosi,2167
+2021-03-24,segunda,Santa Cruz,13937
+2021-03-24,segunda,Tarija,3790
+2021-03-25,primera,Beni,7097
+2021-03-25,primera,Chuquisaca,13093
+2021-03-25,primera,Cochabamba,34754
+2021-03-25,primera,La Paz,39037
+2021-03-25,primera,Oruro,8386
+2021-03-25,primera,Pando,2660
+2021-03-25,primera,Potosi,8272
+2021-03-25,primera,Santa Cruz,41403
+2021-03-25,primera,Tarija,12035
+2021-03-25,segunda,Beni,2792
+2021-03-25,segunda,Chuquisaca,8158
+2021-03-25,segunda,Cochabamba,11199
+2021-03-25,segunda,La Paz,16936
+2021-03-25,segunda,Oruro,5490
+2021-03-25,segunda,Pando,1185
+2021-03-25,segunda,Potosi,3131
+2021-03-25,segunda,Santa Cruz,17734
+2021-03-25,segunda,Tarija,4816
+2021-03-26,primera,Beni,7290
+2021-03-26,primera,Chuquisaca,13278
+2021-03-26,primera,Cochabamba,38143
+2021-03-26,primera,La Paz,39887
+2021-03-26,primera,Oruro,8537
+2021-03-26,primera,Pando,2786
+2021-03-26,primera,Potosi,8564
+2021-03-26,primera,Santa Cruz,42645
+2021-03-26,primera,Tarija,12134
+2021-03-26,segunda,Beni,3902
+2021-03-26,segunda,Chuquisaca,8646
+2021-03-26,segunda,Cochabamba,14673
+2021-03-26,segunda,La Paz,19843
+2021-03-26,segunda,Oruro,5802
+2021-03-26,segunda,Pando,1288
+2021-03-26,segunda,Potosi,3998
+2021-03-26,segunda,Santa Cruz,22134
+2021-03-26,segunda,Tarija,5621
+2021-03-27,primera,Beni,8056
+2021-03-27,primera,Chuquisaca,13293
+2021-03-27,primera,Cochabamba,38515
+2021-03-27,primera,La Paz,40116
+2021-03-27,primera,Oruro,8555
+2021-03-27,primera,Pando,2786
+2021-03-27,primera,Potosi,8622
+2021-03-27,primera,Santa Cruz,42669
+2021-03-27,primera,Tarija,12187
+2021-03-27,segunda,Beni,4095
+2021-03-27,segunda,Chuquisaca,8693
+2021-03-27,segunda,Cochabamba,15460
+2021-03-27,segunda,La Paz,20371
+2021-03-27,segunda,Oruro,5871
+2021-03-27,segunda,Pando,1294
+2021-03-27,segunda,Potosi,4147
+2021-03-27,segunda,Santa Cruz,22478
+2021-03-27,segunda,Tarija,5906
+2021-03-28,primera,Beni,8059
+2021-03-28,primera,Chuquisaca,13293
+2021-03-28,primera,Cochabamba,38603
+2021-03-28,primera,La Paz,40217
+2021-03-28,primera,Oruro,8555
+2021-03-28,primera,Pando,2810
+2021-03-28,primera,Potosi,8632
+2021-03-28,primera,Santa Cruz,42813
+2021-03-28,primera,Tarija,12187
+2021-03-28,segunda,Beni,4185
+2021-03-28,segunda,Chuquisaca,8708
+2021-03-28,segunda,Cochabamba,15530
+2021-03-28,segunda,La Paz,20565
+2021-03-28,segunda,Oruro,5871
+2021-03-28,segunda,Pando,1294
+2021-03-28,segunda,Potosi,4174
+2021-03-28,segunda,Santa Cruz,22480
+2021-03-28,segunda,Tarija,5911
+2021-03-29,primera,Beni,8811
+2021-03-29,primera,Chuquisaca,13375
+2021-03-29,primera,Cochabamba,40727
+2021-03-29,primera,La Paz,41146
+2021-03-29,primera,Oruro,8648
+2021-03-29,primera,Pando,2855
+2021-03-29,primera,Potosi,8826
+2021-03-29,primera,Santa Cruz,43887
+2021-03-29,primera,Tarija,12209
+2021-03-29,segunda,Beni,4537
+2021-03-29,segunda,Chuquisaca,9004
+2021-03-29,segunda,Cochabamba,16456
+2021-03-29,segunda,La Paz,22467
+2021-03-29,segunda,Oruro,6200
+2021-03-29,segunda,Pando,1389
+2021-03-29,segunda,Potosi,4568
+2021-03-29,segunda,Santa Cruz,24600
+2021-03-29,segunda,Tarija,6105
+2021-03-30,primera,Beni,9302
+2021-03-30,primera,Chuquisaca,13446
+2021-03-30,primera,Cochabamba,43424
+2021-03-30,primera,La Paz,42561
+2021-03-30,primera,Oruro,8779
+2021-03-30,primera,Pando,2888
+2021-03-30,primera,Potosi,9051
+2021-03-30,primera,Santa Cruz,45214
+2021-03-30,primera,Tarija,12320
+2021-03-30,segunda,Beni,4826
+2021-03-30,segunda,Chuquisaca,9252
+2021-03-30,segunda,Cochabamba,17701
+2021-03-30,segunda,La Paz,23971
+2021-03-30,segunda,Oruro,6435
+2021-03-30,segunda,Pando,1480
+2021-03-30,segunda,Potosi,4862
+2021-03-30,segunda,Santa Cruz,27382
+2021-03-30,segunda,Tarija,6457
+2021-03-31,primera,Beni,10023
+2021-03-31,primera,Chuquisaca,13422
+2021-03-31,primera,Cochabamba,45948
+2021-03-31,primera,La Paz,43781
+2021-03-31,primera,Oruro,9067
+2021-03-31,primera,Pando,3266
+2021-03-31,primera,Potosi,9419
+2021-03-31,primera,Santa Cruz,47560
+2021-03-31,primera,Tarija,12394
+2021-03-31,segunda,Beni,5061
+2021-03-31,segunda,Chuquisaca,9497
+2021-03-31,segunda,Cochabamba,19200
+2021-03-31,segunda,La Paz,25536
+2021-03-31,segunda,Oruro,6584
+2021-03-31,segunda,Pando,1568
+2021-03-31,segunda,Potosi,5106
+2021-03-31,segunda,Santa Cruz,29760
+2021-03-31,segunda,Tarija,6993
+2021-04-01,primera,Beni,11148
+2021-04-01,primera,Chuquisaca,13612
+2021-04-01,primera,Cochabamba,48106
+2021-04-01,primera,La Paz,45103
+2021-04-01,primera,Oruro,9224
+2021-04-01,primera,Pando,4007
+2021-04-01,primera,Potosi,9855
+2021-04-01,primera,Santa Cruz,49555
+2021-04-01,primera,Tarija,12493
+2021-04-01,segunda,Beni,5220
+2021-04-01,segunda,Chuquisaca,9859
+2021-04-01,segunda,Cochabamba,20269
+2021-04-01,segunda,La Paz,27106
+2021-04-01,segunda,Oruro,6746
+2021-04-01,segunda,Pando,1640
+2021-04-01,segunda,Potosi,5304
+2021-04-01,segunda,Santa Cruz,31046
+2021-04-01,segunda,Tarija,7522
+2021-04-02,primera,Beni,11215
+2021-04-02,primera,Chuquisaca,13615
+2021-04-02,primera,Cochabamba,48220
+2021-04-02,primera,La Paz,45294
+2021-04-02,primera,Oruro,9228
+2021-04-02,primera,Pando,4194
+2021-04-02,primera,Potosi,9897
+2021-04-02,primera,Santa Cruz,49938
+2021-04-02,primera,Tarija,12496
+2021-04-02,segunda,Beni,5230
+2021-04-02,segunda,Chuquisaca,10264
+2021-04-02,segunda,Cochabamba,20767
+2021-04-02,segunda,La Paz,27249
+2021-04-02,segunda,Oruro,6753
+2021-04-02,segunda,Pando,1698
+2021-04-02,segunda,Potosi,5329
+2021-04-02,segunda,Santa Cruz,31129
+2021-04-02,segunda,Tarija,7549
+2021-04-03,primera,Beni,11595
+2021-04-03,primera,Chuquisaca,13615
+2021-04-03,primera,Cochabamba,48295
+2021-04-03,primera,La Paz,45347
+2021-04-03,primera,Oruro,9263
+2021-04-03,primera,Pando,4419
+2021-04-03,primera,Potosi,9920
+2021-04-03,primera,Santa Cruz,50158
+2021-04-03,primera,Tarija,12503
+2021-04-03,segunda,Beni,5242
+2021-04-03,segunda,Chuquisaca,10270
+2021-04-03,segunda,Cochabamba,21075
+2021-04-03,segunda,La Paz,27467
+2021-04-03,segunda,Oruro,6762
+2021-04-03,segunda,Pando,1701
+2021-04-03,segunda,Potosi,5344
+2021-04-03,segunda,Santa Cruz,31157
+2021-04-03,segunda,Tarija,7674
+2021-04-04,primera,Beni,11616
+2021-04-04,primera,Chuquisaca,13655
+2021-04-04,primera,Cochabamba,48453
+2021-04-04,primera,La Paz,45476
+2021-04-04,primera,Oruro,9271
+2021-04-04,primera,Pando,4486
+2021-04-04,primera,Potosi,9951
+2021-04-04,primera,Santa Cruz,50592
+2021-04-04,primera,Tarija,12503
+2021-04-04,segunda,Beni,5242
+2021-04-04,segunda,Chuquisaca,10282
+2021-04-04,segunda,Cochabamba,21083
+2021-04-04,segunda,La Paz,27791
+2021-04-04,segunda,Oruro,6762
+2021-04-04,segunda,Pando,1711
+2021-04-04,segunda,Potosi,5359
+2021-04-04,segunda,Santa Cruz,31167
+2021-04-04,segunda,Tarija,7681
+2021-04-05,primera,Beni,12725
+2021-04-05,primera,Chuquisaca,13773
+2021-04-05,primera,Cochabamba,52450
+2021-04-05,primera,La Paz,46880
+2021-04-05,primera,Oruro,9708
+2021-04-05,primera,Pando,4877
+2021-04-05,primera,Potosi,10467
+2021-04-05,primera,Santa Cruz,52487
+2021-04-05,primera,Tarija,12559
+2021-04-05,segunda,Beni,5565
+2021-04-05,segunda,Chuquisaca,10496
+2021-04-05,segunda,Cochabamba,22430
+2021-04-05,segunda,La Paz,29830
+2021-04-05,segunda,Oruro,6960
+2021-04-05,segunda,Pando,1819
+2021-04-05,segunda,Potosi,5716
+2021-04-05,segunda,Santa Cruz,32438
+2021-04-05,segunda,Tarija,8453
+2021-04-06,primera,Beni,14000
+2021-04-06,primera,Chuquisaca,13971
+2021-04-06,primera,Cochabamba,57183
+2021-04-06,primera,La Paz,48345
+2021-04-06,primera,Oruro,10420
+2021-04-06,primera,Pando,5491
+2021-04-06,primera,Potosi,11636
+2021-04-06,primera,Santa Cruz,55735
+2021-04-06,primera,Tarija,12775
+2021-04-06,segunda,Beni,5669
+2021-04-06,segunda,Chuquisaca,10714
+2021-04-06,segunda,Cochabamba,23308
+2021-04-06,segunda,La Paz,31096
+2021-04-06,segunda,Oruro,7051
+2021-04-06,segunda,Pando,1953
+2021-04-06,segunda,Potosi,5874
+2021-04-06,segunda,Santa Cruz,33550
+2021-04-06,segunda,Tarija,9153
+2021-04-07,primera,Beni,15185
+2021-04-07,primera,Chuquisaca,14601
+2021-04-07,primera,Cochabamba,61359
+2021-04-07,primera,La Paz,50337
+2021-04-07,primera,Oruro,12193
+2021-04-07,primera,Pando,5993
+2021-04-07,primera,Potosi,13265
+2021-04-07,primera,Santa Cruz,59476
+2021-04-07,primera,Tarija,13354
+2021-04-07,segunda,Beni,5793
+2021-04-07,segunda,Chuquisaca,11162
+2021-04-07,segunda,Cochabamba,24277
+2021-04-07,segunda,La Paz,32002
+2021-04-07,segunda,Oruro,7155
+2021-04-07,segunda,Pando,2012
+2021-04-07,segunda,Potosi,6038
+2021-04-07,segunda,Santa Cruz,34408
+2021-04-07,segunda,Tarija,9845
+2021-04-08,primera,Beni,16452
+2021-04-08,primera,Chuquisaca,15469
+2021-04-08,primera,Cochabamba,64915
+2021-04-08,primera,La Paz,52756
+2021-04-08,primera,Oruro,14343
+2021-04-08,primera,Pando,6651
+2021-04-08,primera,Potosi,16173
+2021-04-08,primera,Santa Cruz,62404
+2021-04-08,primera,Tarija,14569
+2021-04-08,segunda,Beni,5936
+2021-04-08,segunda,Chuquisaca,11610
+2021-04-08,segunda,Cochabamba,25177
+2021-04-08,segunda,La Paz,33050
+2021-04-08,segunda,Oruro,7273
+2021-04-08,segunda,Pando,2103
+2021-04-08,segunda,Potosi,6277
+2021-04-08,segunda,Santa Cruz,35356
+2021-04-08,segunda,Tarija,10290
+2021-04-09,primera,Beni,17728
+2021-04-09,primera,Chuquisaca,16923
+2021-04-09,primera,Cochabamba,67801
+2021-04-09,primera,La Paz,55850
+2021-04-09,primera,Oruro,16725
+2021-04-09,primera,Pando,7345
+2021-04-09,primera,Potosi,18667
+2021-04-09,primera,Santa Cruz,65778
+2021-04-09,primera,Tarija,15984
+2021-04-09,segunda,Beni,6002
+2021-04-09,segunda,Chuquisaca,11967
+2021-04-09,segunda,Cochabamba,25787
+2021-04-09,segunda,La Paz,34345
+2021-04-09,segunda,Oruro,7357
+2021-04-09,segunda,Pando,2137
+2021-04-09,segunda,Potosi,6482
+2021-04-09,segunda,Santa Cruz,36228
+2021-04-09,segunda,Tarija,10736
+2021-04-10,primera,Beni,17861
+2021-04-10,primera,Chuquisaca,17143
+2021-04-10,primera,Cochabamba,68510
+2021-04-10,primera,La Paz,56865
+2021-04-10,primera,Oruro,17530
+2021-04-10,primera,Pando,7483
+2021-04-10,primera,Potosi,19084
+2021-04-10,primera,Santa Cruz,66235
+2021-04-10,primera,Tarija,16293
+2021-04-10,segunda,Beni,6011
+2021-04-10,segunda,Chuquisaca,12018
+2021-04-10,segunda,Cochabamba,25849
+2021-04-10,segunda,La Paz,34509
+2021-04-10,segunda,Oruro,7379
+2021-04-10,segunda,Pando,2137
+2021-04-10,segunda,Potosi,6551
+2021-04-10,segunda,Santa Cruz,36257
+2021-04-10,segunda,Tarija,10787
+2021-04-11,primera,Beni,17907
+2021-04-11,primera,Chuquisaca,17345
+2021-04-11,primera,Cochabamba,68893
+2021-04-11,primera,La Paz,57290
+2021-04-11,primera,Oruro,18112
+2021-04-11,primera,Pando,7563
+2021-04-11,primera,Potosi,19162
+2021-04-11,primera,Santa Cruz,66714
+2021-04-11,primera,Tarija,16367
+2021-04-11,segunda,Beni,6045
+2021-04-11,segunda,Chuquisaca,12018
+2021-04-11,segunda,Cochabamba,25880
+2021-04-11,segunda,La Paz,34536
+2021-04-11,segunda,Oruro,7380
+2021-04-11,segunda,Pando,2146
+2021-04-11,segunda,Potosi,6578
+2021-04-11,segunda,Santa Cruz,36293
+2021-04-11,segunda,Tarija,10789
+2021-04-12,primera,Beni,18817
+2021-04-12,primera,Chuquisaca,18156
+2021-04-12,primera,Cochabamba,71100
+2021-04-12,primera,La Paz,60740
+2021-04-12,primera,Oruro,18791
+2021-04-12,primera,Pando,7933
+2021-04-12,primera,Potosi,19877
+2021-04-12,primera,Santa Cruz,70452
+2021-04-12,primera,Tarija,17125
+2021-04-12,segunda,Beni,6176
+2021-04-12,segunda,Chuquisaca,12235
+2021-04-12,segunda,Cochabamba,26521
+2021-04-12,segunda,La Paz,35155
+2021-04-12,segunda,Oruro,7491
+2021-04-12,segunda,Pando,2177
+2021-04-12,segunda,Potosi,6809
+2021-04-12,segunda,Santa Cruz,36847
+2021-04-12,segunda,Tarija,11015
+2021-04-13,primera,Beni,19892
+2021-04-13,primera,Chuquisaca,18875
+2021-04-13,primera,Cochabamba,73243
+2021-04-13,primera,La Paz,64717
+2021-04-13,primera,Oruro,19732
+2021-04-13,primera,Pando,8523
+2021-04-13,primera,Potosi,20729
+2021-04-13,primera,Santa Cruz,73921
+2021-04-13,primera,Tarija,18069
+2021-04-13,segunda,Beni,6263
+2021-04-13,segunda,Chuquisaca,12533
+2021-04-13,segunda,Cochabamba,28009
+2021-04-13,segunda,La Paz,35727
+2021-04-13,segunda,Oruro,7660
+2021-04-13,segunda,Pando,2228
+2021-04-13,segunda,Potosi,7018
+2021-04-13,segunda,Santa Cruz,37530
+2021-04-13,segunda,Tarija,11227
+2021-04-14,primera,Beni,20875
+2021-04-14,primera,Chuquisaca,19905
+2021-04-14,primera,Cochabamba,75297
+2021-04-14,primera,La Paz,68589
+2021-04-14,primera,Oruro,20576
+2021-04-14,primera,Pando,9962
+2021-04-14,primera,Potosi,21543
+2021-04-14,primera,Santa Cruz,77537
+2021-04-14,primera,Tarija,18853
+2021-04-14,segunda,Beni,6376
+2021-04-14,segunda,Chuquisaca,12843
+2021-04-14,segunda,Cochabamba,30437
+2021-04-14,segunda,La Paz,36538
+2021-04-14,segunda,Oruro,7824
+2021-04-14,segunda,Pando,2313
+2021-04-14,segunda,Potosi,7269
+2021-04-14,segunda,Santa Cruz,38279
+2021-04-14,segunda,Tarija,11338
+2021-04-15,primera,Beni,21882
+2021-04-15,primera,Chuquisaca,21626
+2021-04-15,primera,Cochabamba,77227
+2021-04-15,primera,La Paz,72698
+2021-04-15,primera,Oruro,21395
+2021-04-15,primera,Pando,11381
+2021-04-15,primera,Potosi,22290
+2021-04-15,primera,Santa Cruz,81014
+2021-04-15,primera,Tarija,19082
+2021-04-15,segunda,Beni,6474
+2021-04-15,segunda,Chuquisaca,13135
+2021-04-15,segunda,Cochabamba,33396
+2021-04-15,segunda,La Paz,37312
+2021-04-15,segunda,Oruro,8001
+2021-04-15,segunda,Pando,2403
+2021-04-15,segunda,Potosi,7534
+2021-04-15,segunda,Santa Cruz,39206
+2021-04-15,segunda,Tarija,11359
+2021-04-16,primera,Beni,22910
+2021-04-16,primera,Chuquisaca,22831
+2021-04-16,primera,Cochabamba,78766
+2021-04-16,primera,La Paz,77338
+2021-04-16,primera,Oruro,22257
+2021-04-16,primera,Pando,12689
+2021-04-16,primera,Potosi,23047
+2021-04-16,primera,Santa Cruz,86029
+2021-04-16,primera,Tarija,19466
+2021-04-16,segunda,Beni,6650
+2021-04-16,segunda,Chuquisaca,13305
+2021-04-16,segunda,Cochabamba,36588
+2021-04-16,segunda,La Paz,38212
+2021-04-16,segunda,Oruro,8217
+2021-04-16,segunda,Pando,2537
+2021-04-16,segunda,Potosi,7786
+2021-04-16,segunda,Santa Cruz,40283
+2021-04-16,segunda,Tarija,11585
+2021-04-17,primera,Beni,23029
+2021-04-17,primera,Chuquisaca,24294
+2021-04-17,primera,Cochabamba,79009
+2021-04-17,primera,La Paz,78373
+2021-04-17,primera,Oruro,23410
+2021-04-17,primera,Pando,13227
+2021-04-17,primera,Potosi,23201
+2021-04-17,primera,Santa Cruz,86371
+2021-04-17,primera,Tarija,19569
+2021-04-17,segunda,Beni,6670
+2021-04-17,segunda,Chuquisaca,13307
+2021-04-17,segunda,Cochabamba,36892
+2021-04-17,segunda,La Paz,38422
+2021-04-17,segunda,Oruro,8241
+2021-04-17,segunda,Pando,2550
+2021-04-17,segunda,Potosi,7815
+2021-04-17,segunda,Santa Cruz,40342
+2021-04-17,segunda,Tarija,11652
+2021-04-18,primera,Beni,23086
+2021-04-18,primera,Chuquisaca,24701
+2021-04-18,primera,Cochabamba,79226
+2021-04-18,primera,La Paz,78773
+2021-04-18,primera,Oruro,24196
+2021-04-18,primera,Pando,13432
+2021-04-18,primera,Potosi,23343
+2021-04-18,primera,Santa Cruz,86799
+2021-04-18,primera,Tarija,19583
+2021-04-18,segunda,Beni,6678
+2021-04-18,segunda,Chuquisaca,13307
+2021-04-18,segunda,Cochabamba,36943
+2021-04-18,segunda,La Paz,38513
+2021-04-18,segunda,Oruro,8242
+2021-04-18,segunda,Pando,2552
+2021-04-18,segunda,Potosi,7844
+2021-04-18,segunda,Santa Cruz,40342
+2021-04-18,segunda,Tarija,11670
+2021-04-19,primera,Beni,24126
+2021-04-19,primera,Chuquisaca,25488
+2021-04-19,primera,Cochabamba,80272
+2021-04-19,primera,La Paz,82619
+2021-04-19,primera,Oruro,24628
+2021-04-19,primera,Pando,14712
+2021-04-19,primera,Potosi,23795
+2021-04-19,primera,Santa Cruz,90180
+2021-04-19,primera,Tarija,20069
+2021-04-19,segunda,Beni,6761
+2021-04-19,segunda,Chuquisaca,13425
+2021-04-19,segunda,Cochabamba,39171
+2021-04-19,segunda,La Paz,39442
+2021-04-19,segunda,Oruro,8337
+2021-04-19,segunda,Pando,2608
+2021-04-19,segunda,Potosi,8013
+2021-04-19,segunda,Santa Cruz,42002
+2021-04-19,segunda,Tarija,11746
+2021-04-20,primera,Beni,25571
+2021-04-20,primera,Chuquisaca,26531
+2021-04-20,primera,Cochabamba,81786
+2021-04-20,primera,La Paz,87229
+2021-04-20,primera,Oruro,24948
+2021-04-20,primera,Pando,15757
+2021-04-20,primera,Potosi,24329
+2021-04-20,primera,Santa Cruz,93117
+2021-04-20,primera,Tarija,20819
+2021-04-20,segunda,Beni,6883
+2021-04-20,segunda,Chuquisaca,13480
+2021-04-20,segunda,Cochabamba,40635
+2021-04-20,segunda,La Paz,40619
+2021-04-20,segunda,Oruro,8456
+2021-04-20,segunda,Pando,2667
+2021-04-20,segunda,Potosi,8340
+2021-04-20,segunda,Santa Cruz,44221
+2021-04-20,segunda,Tarija,11823
+2021-04-21,primera,Beni,26781
+2021-04-21,primera,Chuquisaca,27463
+2021-04-21,primera,Cochabamba,83122
+2021-04-21,primera,La Paz,91518
+2021-04-21,primera,Oruro,25009
+2021-04-21,primera,Pando,16825
+2021-04-21,primera,Potosi,24846
+2021-04-21,primera,Santa Cruz,96503
+2021-04-21,primera,Tarija,21576
+2021-04-21,segunda,Beni,6980
+2021-04-21,segunda,Chuquisaca,13572
+2021-04-21,segunda,Cochabamba,41405
+2021-04-21,segunda,La Paz,41704
+2021-04-21,segunda,Oruro,8723
+2021-04-21,segunda,Pando,2701
+2021-04-21,segunda,Potosi,8636
+2021-04-21,segunda,Santa Cruz,47107
+2021-04-21,segunda,Tarija,11895
+2021-04-22,primera,Beni,28058
+2021-04-22,primera,Chuquisaca,28010
+2021-04-22,primera,Cochabamba,85512
+2021-04-22,primera,La Paz,96144
+2021-04-22,primera,Oruro,26709
+2021-04-22,primera,Pando,18022
+2021-04-22,primera,Potosi,25308
+2021-04-22,primera,Santa Cruz,100428
+2021-04-22,primera,Tarija,22947
+2021-04-22,segunda,Beni,7166
+2021-04-22,segunda,Chuquisaca,13698
+2021-04-22,segunda,Cochabamba,42306
+2021-04-22,segunda,La Paz,42861
+2021-04-22,segunda,Oruro,8874
+2021-04-22,segunda,Pando,2717
+2021-04-22,segunda,Potosi,8987
+2021-04-22,segunda,Santa Cruz,50050
+2021-04-22,segunda,Tarija,11997
+2021-04-23,primera,Beni,29929
+2021-04-23,primera,Chuquisaca,31665
+2021-04-23,primera,Cochabamba,88322
+2021-04-23,primera,La Paz,101417
+2021-04-23,primera,Oruro,30613
+2021-04-23,primera,Pando,19468
+2021-04-23,primera,Potosi,26456
+2021-04-23,primera,Santa Cruz,104522
+2021-04-23,primera,Tarija,24251
+2021-04-23,segunda,Beni,7198
+2021-04-23,segunda,Chuquisaca,13723
+2021-04-23,segunda,Cochabamba,42517
+2021-04-23,segunda,La Paz,43210
+2021-04-23,segunda,Oruro,8926
+2021-04-23,segunda,Pando,2752
+2021-04-23,segunda,Potosi,9086
+2021-04-23,segunda,Santa Cruz,50963
+2021-04-23,segunda,Tarija,12100
+2021-04-24,primera,Beni,30090
+2021-04-24,primera,Chuquisaca,34027
+2021-04-24,primera,Cochabamba,88621
+2021-04-24,primera,La Paz,102595
+2021-04-24,primera,Oruro,33413
+2021-04-24,primera,Pando,20579
+2021-04-24,primera,Potosi,26896
+2021-04-24,primera,Santa Cruz,105194
+2021-04-24,primera,Tarija,24408
+2021-04-24,segunda,Beni,7209
+2021-04-24,segunda,Chuquisaca,13725
+2021-04-24,segunda,Cochabamba,42567
+2021-04-24,segunda,La Paz,43277
+2021-04-24,segunda,Oruro,8964
+2021-04-24,segunda,Pando,2753
+2021-04-24,segunda,Potosi,9165
+2021-04-24,segunda,Santa Cruz,51022
+2021-04-24,segunda,Tarija,12108
+2021-04-25,primera,Beni,30127
+2021-04-25,primera,Chuquisaca,34200
+2021-04-25,primera,Cochabamba,88796
+2021-04-25,primera,La Paz,103457
+2021-04-25,primera,Oruro,35005
+2021-04-25,primera,Pando,20767
+2021-04-25,primera,Potosi,27413
+2021-04-25,primera,Santa Cruz,105389
+2021-04-25,primera,Tarija,24432
+2021-04-25,segunda,Beni,7211
+2021-04-25,segunda,Chuquisaca,13732
+2021-04-25,segunda,Cochabamba,42601
+2021-04-25,segunda,La Paz,43388
+2021-04-25,segunda,Oruro,8974
+2021-04-25,segunda,Pando,2758
+2021-04-25,segunda,Potosi,9230
+2021-04-25,segunda,Santa Cruz,51022
+2021-04-25,segunda,Tarija,12108
+2021-04-26,primera,Beni,32253
+2021-04-26,primera,Chuquisaca,37085
+2021-04-26,primera,Cochabamba,91597
+2021-04-26,primera,La Paz,107322
+2021-04-26,primera,Oruro,35715
+2021-04-26,primera,Pando,22236
+2021-04-26,primera,Potosi,28685
+2021-04-26,primera,Santa Cruz,109633
+2021-04-26,primera,Tarija,25969
+2021-04-26,segunda,Beni,7361
+2021-04-26,segunda,Chuquisaca,13816
+2021-04-26,segunda,Cochabamba,44967
+2021-04-26,segunda,La Paz,44636
+2021-04-26,segunda,Oruro,9162
+2021-04-26,segunda,Pando,2766
+2021-04-26,segunda,Potosi,9838
+2021-04-26,segunda,Santa Cruz,53439
+2021-04-26,segunda,Tarija,12174
+2021-04-27,primera,Beni,34455
+2021-04-27,primera,Chuquisaca,40758
+2021-04-27,primera,Cochabamba,94317
+2021-04-27,primera,La Paz,115600
+2021-04-27,primera,Oruro,36073
+2021-04-27,primera,Pando,24242
+2021-04-27,primera,Potosi,29570
+2021-04-27,primera,Santa Cruz,113903
+2021-04-27,primera,Tarija,28040
+2021-04-27,segunda,Beni,7829
+2021-04-27,segunda,Chuquisaca,13927
+2021-04-27,segunda,Cochabamba,47327
+2021-04-27,segunda,La Paz,46128
+2021-04-27,segunda,Oruro,9584
+2021-04-27,segunda,Pando,2788
+2021-04-27,segunda,Potosi,10777
+2021-04-27,segunda,Santa Cruz,55247
+2021-04-27,segunda,Tarija,12381
+2021-04-28,primera,Beni,36460
+2021-04-28,primera,Chuquisaca,43774
+2021-04-28,primera,Cochabamba,98608
+2021-04-28,primera,La Paz,125140
+2021-04-28,primera,Oruro,36222
+2021-04-28,primera,Pando,26304
+2021-04-28,primera,Potosi,30304
+2021-04-28,primera,Santa Cruz,120726
+2021-04-28,primera,Tarija,29933
+2021-04-28,segunda,Beni,8411
+2021-04-28,segunda,Chuquisaca,14346
+2021-04-28,segunda,Cochabamba,48837
+2021-04-28,segunda,La Paz,47880
+2021-04-28,segunda,Oruro,10265
+2021-04-28,segunda,Pando,2816
+2021-04-28,segunda,Potosi,11802
+2021-04-28,segunda,Santa Cruz,57548
+2021-04-28,segunda,Tarija,12668
+2021-04-29,primera,Beni,38117
+2021-04-29,primera,Chuquisaca,46138
+2021-04-29,primera,Cochabamba,103509
+2021-04-29,primera,La Paz,134074
+2021-04-29,primera,Oruro,36331
+2021-04-29,primera,Pando,27258
+2021-04-29,primera,Potosi,31256
+2021-04-29,primera,Santa Cruz,128491
+2021-04-29,primera,Tarija,31645
+2021-04-29,segunda,Beni,9153
+2021-04-29,segunda,Chuquisaca,14853
+2021-04-29,segunda,Cochabamba,49981
+2021-04-29,segunda,La Paz,49256
+2021-04-29,segunda,Oruro,11173
+2021-04-29,segunda,Pando,2884
+2021-04-29,segunda,Potosi,12770
+2021-04-29,segunda,Santa Cruz,59382
+2021-04-29,segunda,Tarija,13051
+2021-04-30,primera,Beni,40364
+2021-04-30,primera,Chuquisaca,48024
+2021-04-30,primera,Cochabamba,109207
+2021-04-30,primera,La Paz,144447
+2021-04-30,primera,Oruro,36382
+2021-04-30,primera,Pando,28501
+2021-04-30,primera,Potosi,32580
+2021-04-30,primera,Santa Cruz,137510
+2021-04-30,primera,Tarija,33519
+2021-04-30,segunda,Beni,9826
+2021-04-30,segunda,Chuquisaca,17712
+2021-04-30,segunda,Cochabamba,50958
+2021-04-30,segunda,La Paz,51526
+2021-04-30,segunda,Oruro,12064
+2021-04-30,segunda,Pando,2924
+2021-04-30,segunda,Potosi,13660
+2021-04-30,segunda,Santa Cruz,61953
+2021-04-30,segunda,Tarija,13485
+2021-05-01,primera,Beni,40565
+2021-05-01,primera,Chuquisaca,48900
+2021-05-01,primera,Cochabamba,109593
+2021-05-01,primera,La Paz,145590
+2021-05-01,primera,Oruro,36404
+2021-05-01,primera,Pando,28764
+2021-05-01,primera,Potosi,33007
+2021-05-01,primera,Santa Cruz,137880
+2021-05-01,primera,Tarija,33897
+2021-05-01,segunda,Beni,9899
+2021-05-01,segunda,Chuquisaca,15797
+2021-05-01,segunda,Cochabamba,51043
+2021-05-01,segunda,La Paz,52018
+2021-05-01,segunda,Oruro,12465
+2021-05-01,segunda,Pando,2969
+2021-05-01,segunda,Potosi,13700
+2021-05-01,segunda,Santa Cruz,62131
+2021-05-01,segunda,Tarija,13527
+2021-05-02,primera,Beni,40609
+2021-05-02,primera,Chuquisaca,49566
+2021-05-02,primera,Cochabamba,109884
+2021-05-02,primera,La Paz,146069
+2021-05-02,primera,Oruro,36404
+2021-05-02,primera,Pando,28855
+2021-05-02,primera,Potosi,33116
+2021-05-02,primera,Santa Cruz,138013
+2021-05-02,primera,Tarija,33920
+2021-05-02,segunda,Beni,9937
+2021-05-02,segunda,Chuquisaca,15815
+2021-05-02,segunda,Cochabamba,51180
+2021-05-02,segunda,La Paz,52373
+2021-05-02,segunda,Oruro,12876
+2021-05-02,segunda,Pando,2972
+2021-05-02,segunda,Potosi,13862
+2021-05-02,segunda,Santa Cruz,62188
+2021-05-02,segunda,Tarija,13553
+2021-05-03,primera,Beni,41392
+2021-05-03,primera,Chuquisaca,50960
+2021-05-03,primera,Cochabamba,113785
+2021-05-03,primera,La Paz,153410
+2021-05-03,primera,Oruro,36413
+2021-05-03,primera,Pando,29209
+2021-05-03,primera,Potosi,33954
+2021-05-03,primera,Santa Cruz,144159
+2021-05-03,primera,Tarija,34412
+2021-05-03,segunda,Beni,10375
+2021-05-03,segunda,Chuquisaca,16211
+2021-05-03,segunda,Cochabamba,52076
+2021-05-03,segunda,La Paz,53760
+2021-05-03,segunda,Oruro,13291
+2021-05-03,segunda,Pando,3009
+2021-05-03,segunda,Potosi,14281
+2021-05-03,segunda,Santa Cruz,63967
+2021-05-03,segunda,Tarija,13899
+2021-05-04,primera,Beni,42603
+2021-05-04,primera,Chuquisaca,52506
+2021-05-04,primera,Cochabamba,120092
+2021-05-04,primera,La Paz,157293
+2021-05-04,primera,Oruro,37763
+2021-05-04,primera,Pando,29481
+2021-05-04,primera,Potosi,34846
+2021-05-04,primera,Santa Cruz,152947
+2021-05-04,primera,Tarija,35510
+2021-05-04,segunda,Beni,10963
+2021-05-04,segunda,Chuquisaca,16819
+2021-05-04,segunda,Cochabamba,52932
+2021-05-04,segunda,La Paz,54900
+2021-05-04,segunda,Oruro,13650
+2021-05-04,segunda,Pando,3035
+2021-05-04,segunda,Potosi,14789
+2021-05-04,segunda,Santa Cruz,65363
+2021-05-04,segunda,Tarija,14371
+2021-05-05,primera,Beni,43911
+2021-05-05,primera,Chuquisaca,53563
+2021-05-05,primera,Cochabamba,127498
+2021-05-05,primera,La Paz,163500
+2021-05-05,primera,Oruro,39119
+2021-05-05,primera,Pando,29720
+2021-05-05,primera,Potosi,35850
+2021-05-05,primera,Santa Cruz,160242
+2021-05-05,primera,Tarija,36230
+2021-05-05,segunda,Beni,11582
+2021-05-05,segunda,Chuquisaca,17366
+2021-05-05,segunda,Cochabamba,53310
+2021-05-05,segunda,La Paz,55939
+2021-05-05,segunda,Oruro,13970
+2021-05-05,segunda,Pando,3082
+2021-05-05,segunda,Potosi,15295
+2021-05-05,segunda,Santa Cruz,66623
+2021-05-05,segunda,Tarija,14619
+2021-05-06,primera,Beni,44954
+2021-05-06,primera,Chuquisaca,54466
+2021-05-06,primera,Cochabamba,131774
+2021-05-06,primera,La Paz,172068
+2021-05-06,primera,Oruro,39345
+2021-05-06,primera,Pando,29905
+2021-05-06,primera,Potosi,36448
+2021-05-06,primera,Santa Cruz,164341
+2021-05-06,primera,Tarija,36939
+2021-05-06,segunda,Beni,12014
+2021-05-06,segunda,Chuquisaca,17826
+2021-05-06,segunda,Cochabamba,53739
+2021-05-06,segunda,La Paz,56755
+2021-05-06,segunda,Oruro,14184
+2021-05-06,segunda,Pando,3128
+2021-05-06,segunda,Potosi,15895
+2021-05-06,segunda,Santa Cruz,68003
+2021-05-06,segunda,Tarija,14762
+2021-05-07,primera,Beni,46806
+2021-05-07,primera,Chuquisaca,55222
+2021-05-07,primera,Cochabamba,132498
+2021-05-07,primera,La Paz,180576
+2021-05-07,primera,Oruro,39359
+2021-05-07,primera,Pando,30056
+2021-05-07,primera,Potosi,37704
+2021-05-07,primera,Santa Cruz,168324
+2021-05-07,primera,Tarija,37649
+2021-05-07,segunda,Beni,12662
+2021-05-07,segunda,Chuquisaca,18076
+2021-05-07,segunda,Cochabamba,54108
+2021-05-07,segunda,La Paz,58142
+2021-05-07,segunda,Oruro,14465
+2021-05-07,segunda,Pando,3201
+2021-05-07,segunda,Potosi,16316
+2021-05-07,segunda,Santa Cruz,70224
+2021-05-07,segunda,Tarija,14912
+2021-05-08,primera,Beni,48101
+2021-05-08,primera,Chuquisaca,55513
+2021-05-08,primera,Cochabamba,132629
+2021-05-08,primera,La Paz,182362
+2021-05-08,primera,Oruro,39360
+2021-05-08,primera,Pando,30103
+2021-05-08,primera,Potosi,38141
+2021-05-08,primera,Santa Cruz,169188
+2021-05-08,primera,Tarija,37908
+2021-05-08,segunda,Beni,12832
+2021-05-08,segunda,Chuquisaca,18333
+2021-05-08,segunda,Cochabamba,54236
+2021-05-08,segunda,La Paz,58726
+2021-05-08,segunda,Oruro,14776
+2021-05-08,segunda,Pando,3225
+2021-05-08,segunda,Potosi,16445
+2021-05-08,segunda,Santa Cruz,70478
+2021-05-08,segunda,Tarija,14940
+2021-05-09,primera,Beni,48160
+2021-05-09,primera,Chuquisaca,55661
+2021-05-09,primera,Cochabamba,132634
+2021-05-09,primera,La Paz,182631
+2021-05-09,primera,Oruro,39360
+2021-05-09,primera,Pando,30121
+2021-05-09,primera,Potosi,38358
+2021-05-09,primera,Santa Cruz,169318
+2021-05-09,primera,Tarija,37919
+2021-05-09,segunda,Beni,12857
+2021-05-09,segunda,Chuquisaca,18405
+2021-05-09,segunda,Cochabamba,54270
+2021-05-09,segunda,La Paz,58971
+2021-05-09,segunda,Oruro,14856
+2021-05-09,segunda,Pando,3230
+2021-05-09,segunda,Potosi,16579
+2021-05-09,segunda,Santa Cruz,70531
+2021-05-09,segunda,Tarija,14957
+2021-05-10,primera,Beni,49746
+2021-05-10,primera,Chuquisaca,56086
+2021-05-10,primera,Cochabamba,132961
+2021-05-10,primera,La Paz,183711
+2021-05-10,primera,Oruro,39359
+2021-05-10,primera,Pando,30227
+2021-05-10,primera,Potosi,39510
+2021-05-10,primera,Santa Cruz,171552
+2021-05-10,primera,Tarija,38506
+2021-05-10,segunda,Beni,13357
+2021-05-10,segunda,Chuquisaca,18629
+2021-05-10,segunda,Cochabamba,54594
+2021-05-10,segunda,La Paz,60156
+2021-05-10,segunda,Oruro,15005
+2021-05-10,segunda,Pando,3259
+2021-05-10,segunda,Potosi,17004
+2021-05-10,segunda,Santa Cruz,72171
+2021-05-10,segunda,Tarija,15148
+2021-05-11,primera,Beni,51862
+2021-05-11,primera,Chuquisaca,56381
+2021-05-11,primera,Cochabamba,133328
+2021-05-11,primera,La Paz,184738
+2021-05-11,primera,Oruro,39360
+2021-05-11,primera,Pando,30341
+2021-05-11,primera,Potosi,40697
+2021-05-11,primera,Santa Cruz,173099
+2021-05-11,primera,Tarija,39033
+2021-05-11,segunda,Beni,13847
+2021-05-11,segunda,Chuquisaca,18922
+2021-05-11,segunda,Cochabamba,54713
+2021-05-11,segunda,La Paz,61442
+2021-05-11,segunda,Oruro,15224
+2021-05-11,segunda,Pando,3291
+2021-05-11,segunda,Potosi,17333
+2021-05-11,segunda,Santa Cruz,73510
+2021-05-11,segunda,Tarija,15298
+2021-05-12,primera,Beni,53200
+2021-05-12,primera,Chuquisaca,56807
+2021-05-12,primera,Cochabamba,133718
+2021-05-12,primera,La Paz,185639
+2021-05-12,primera,Oruro,39360
+2021-05-12,primera,Pando,30378
+2021-05-12,primera,Potosi,41829
+2021-05-12,primera,Santa Cruz,173892
+2021-05-12,primera,Tarija,39702
+2021-05-12,segunda,Beni,14007
+2021-05-12,segunda,Chuquisaca,19096
+2021-05-12,segunda,Cochabamba,54898
+2021-05-12,segunda,La Paz,62609
+2021-05-12,segunda,Oruro,15326
+2021-05-12,segunda,Pando,3302
+2021-05-12,segunda,Potosi,17716
+2021-05-12,segunda,Santa Cruz,74136
+2021-05-12,segunda,Tarija,15512
+2021-05-13,primera,Beni,54820
+2021-05-13,primera,Chuquisaca,56817
+2021-05-13,primera,Cochabamba,143754
+2021-05-13,primera,La Paz,191764
+2021-05-13,primera,Oruro,39360
+2021-05-13,primera,Pando,30531
+2021-05-13,primera,Potosi,43082
+2021-05-13,primera,Santa Cruz,176813
+2021-05-13,primera,Tarija,39973
+2021-05-13,segunda,Beni,14421
+2021-05-13,segunda,Chuquisaca,19192
+2021-05-13,segunda,Cochabamba,55114
+2021-05-13,segunda,La Paz,63574
+2021-05-13,segunda,Oruro,15396
+2021-05-13,segunda,Pando,3352
+2021-05-13,segunda,Potosi,17881
+2021-05-13,segunda,Santa Cruz,75027
+2021-05-13,segunda,Tarija,16024
+2021-05-14,primera,Beni,56685
+2021-05-14,primera,Chuquisaca,56977
+2021-05-14,primera,Cochabamba,157224
+2021-05-14,primera,La Paz,200890
+2021-05-14,primera,Oruro,39373
+2021-05-14,primera,Pando,30746
+2021-05-14,primera,Potosi,44841
+2021-05-14,primera,Santa Cruz,183310
+2021-05-14,primera,Tarija,40345
+2021-05-14,segunda,Beni,14806
+2021-05-14,segunda,Chuquisaca,19361
+2021-05-14,segunda,Cochabamba,55295
+2021-05-14,segunda,La Paz,64643
+2021-05-14,segunda,Oruro,15513
+2021-05-14,segunda,Pando,3425
+2021-05-14,segunda,Potosi,18168
+2021-05-14,segunda,Santa Cruz,76053
+2021-05-14,segunda,Tarija,16310
+2021-05-15,primera,Beni,56972
+2021-05-15,primera,Chuquisaca,57752
+2021-05-15,primera,Cochabamba,160763
+2021-05-15,primera,La Paz,202103
+2021-05-15,primera,Oruro,40206
+2021-05-15,primera,Pando,30762
+2021-05-15,primera,Potosi,45298
+2021-05-15,primera,Santa Cruz,184161
+2021-05-15,primera,Tarija,40472
+2021-05-15,segunda,Beni,14889
+2021-05-15,segunda,Chuquisaca,19400
+2021-05-15,segunda,Cochabamba,55320
+2021-05-15,segunda,La Paz,65230
+2021-05-15,segunda,Oruro,15544
+2021-05-15,segunda,Pando,3427
+2021-05-15,segunda,Potosi,18270
+2021-05-15,segunda,Santa Cruz,76137
+2021-05-15,segunda,Tarija,16365
+2021-05-16,primera,Beni,57103
+2021-05-16,primera,Chuquisaca,58127
+2021-05-16,primera,Cochabamba,161283
+2021-05-16,primera,La Paz,202305
+2021-05-16,primera,Oruro,40725
+2021-05-16,primera,Pando,30813
+2021-05-16,primera,Potosi,46147
+2021-05-16,primera,Santa Cruz,184188
+2021-05-16,primera,Tarija,40550
+2021-05-16,segunda,Beni,14897
+2021-05-16,segunda,Chuquisaca,19473
+2021-05-16,segunda,Cochabamba,55364
+2021-05-16,segunda,La Paz,65697
+2021-05-16,segunda,Oruro,15587
+2021-05-16,segunda,Pando,3436
+2021-05-16,segunda,Potosi,18521
+2021-05-16,segunda,Santa Cruz,76143
+2021-05-16,segunda,Tarija,16366
+2021-05-17,primera,Beni,58265
+2021-05-17,primera,Chuquisaca,58214
+2021-05-17,primera,Cochabamba,170310
+2021-05-17,primera,La Paz,210389
+2021-05-17,primera,Oruro,42912
+2021-05-17,primera,Pando,31176
+2021-05-17,primera,Potosi,47982
+2021-05-17,primera,Santa Cruz,195718
+2021-05-17,primera,Tarija,42526
+2021-05-17,segunda,Beni,15287
+2021-05-17,segunda,Chuquisaca,19545
+2021-05-17,segunda,Cochabamba,55468
+2021-05-17,segunda,La Paz,66553
+2021-05-17,segunda,Oruro,15653
+2021-05-17,segunda,Pando,3543
+2021-05-17,segunda,Potosi,19056
+2021-05-17,segunda,Santa Cruz,76871
+2021-05-17,segunda,Tarija,16586
+2021-05-18,primera,Beni,59550
+2021-05-18,primera,Chuquisaca,59922
+2021-05-18,primera,Cochabamba,181004
+2021-05-18,primera,La Paz,219156
+2021-05-18,primera,Oruro,47436
+2021-05-18,primera,Pando,31464
+2021-05-18,primera,Potosi,49679
+2021-05-18,primera,Santa Cruz,209749
+2021-05-18,primera,Tarija,44873
+2021-05-18,segunda,Beni,15729
+2021-05-18,segunda,Chuquisaca,19686
+2021-05-18,segunda,Cochabamba,55507
+2021-05-18,segunda,La Paz,67499
+2021-05-18,segunda,Oruro,15777
+2021-05-18,segunda,Pando,3659
+2021-05-18,segunda,Potosi,19524
+2021-05-18,segunda,Santa Cruz,77557
+2021-05-18,segunda,Tarija,16801
+2021-05-19,primera,Beni,60766
+2021-05-19,primera,Chuquisaca,62246
+2021-05-19,primera,Cochabamba,194135
+2021-05-19,primera,La Paz,228764
+2021-05-19,primera,Oruro,52030
+2021-05-19,primera,Pando,31759
+2021-05-19,primera,Potosi,51250
+2021-05-19,primera,Santa Cruz,223441
+2021-05-19,primera,Tarija,47442
+2021-05-19,segunda,Beni,16106
+2021-05-19,segunda,Chuquisaca,19801
+2021-05-19,segunda,Cochabamba,55573
+2021-05-19,segunda,La Paz,68348
+2021-05-19,segunda,Oruro,15807
+2021-05-19,segunda,Pando,3807
+2021-05-19,segunda,Potosi,19799
+2021-05-19,segunda,Santa Cruz,78052
+2021-05-19,segunda,Tarija,16986
+2021-05-20,primera,Beni,62186
+2021-05-20,primera,Chuquisaca,65244
+2021-05-20,primera,Cochabamba,209566
+2021-05-20,primera,La Paz,237844
+2021-05-20,primera,Oruro,56312
+2021-05-20,primera,Pando,32144
+2021-05-20,primera,Potosi,53199
+2021-05-20,primera,Santa Cruz,237939
+2021-05-20,primera,Tarija,50179
+2021-05-20,segunda,Beni,16348
+2021-05-20,segunda,Chuquisaca,19823
+2021-05-20,segunda,Cochabamba,55641
+2021-05-20,segunda,La Paz,69232
+2021-05-20,segunda,Oruro,15820
+2021-05-20,segunda,Pando,4032
+2021-05-20,segunda,Potosi,19971
+2021-05-20,segunda,Santa Cruz,78522
+2021-05-20,segunda,Tarija,17199
+2021-05-21,primera,Beni,63421
+2021-05-21,primera,Chuquisaca,68412
+2021-05-21,primera,Cochabamba,223308
+2021-05-21,primera,La Paz,247427
+2021-05-21,primera,Oruro,59873
+2021-05-21,primera,Pando,32650
+2021-05-21,primera,Potosi,55552
+2021-05-21,primera,Santa Cruz,254614
+2021-05-21,primera,Tarija,53178
+2021-05-21,segunda,Beni,16539
+2021-05-21,segunda,Chuquisaca,19962
+2021-05-21,segunda,Cochabamba,55742
+2021-05-21,segunda,La Paz,70069
+2021-05-21,segunda,Oruro,15836
+2021-05-21,segunda,Pando,4156
+2021-05-21,segunda,Potosi,20073
+2021-05-21,segunda,Santa Cruz,78871
+2021-05-21,segunda,Tarija,17362
+2021-05-22,primera,Beni,63749
+2021-05-22,primera,Chuquisaca,70242
+2021-05-22,primera,Cochabamba,226392
+2021-05-22,primera,La Paz,250019
+2021-05-22,primera,Oruro,61478
+2021-05-22,primera,Pando,32826
+2021-05-22,primera,Potosi,57000
+2021-05-22,primera,Santa Cruz,256148
+2021-05-22,primera,Tarija,53828
+2021-05-22,segunda,Beni,16612
+2021-05-22,segunda,Chuquisaca,20187
+2021-05-22,segunda,Cochabamba,55792
+2021-05-22,segunda,La Paz,70509
+2021-05-22,segunda,Oruro,15843
+2021-05-22,segunda,Pando,4208
+2021-05-22,segunda,Potosi,20156
+2021-05-22,segunda,Santa Cruz,78811
+2021-05-22,segunda,Tarija,17416
+2021-05-23,primera,Beni,63871
+2021-05-23,primera,Chuquisaca,71618
+2021-05-23,primera,Cochabamba,227104
+2021-05-23,primera,La Paz,251176
+2021-05-23,primera,Oruro,61599
+2021-05-23,primera,Pando,32978
+2021-05-23,primera,Potosi,57536
+2021-05-23,primera,Santa Cruz,256315
+2021-05-23,primera,Tarija,53927
+2021-05-23,segunda,Beni,16647
+2021-05-23,segunda,Chuquisaca,20511
+2021-05-23,segunda,Cochabamba,55795
+2021-05-23,segunda,La Paz,70743
+2021-05-23,segunda,Oruro,15843
+2021-05-23,segunda,Pando,4267
+2021-05-23,segunda,Potosi,20167
+2021-05-23,segunda,Santa Cruz,78977
+2021-05-23,segunda,Tarija,17420
+2021-05-24,primera,Beni,64972
+2021-05-24,primera,Chuquisaca,74286
+2021-05-24,primera,Cochabamba,236343
+2021-05-24,primera,La Paz,259119
+2021-05-24,primera,Oruro,63067
+2021-05-24,primera,Pando,33264
+2021-05-24,primera,Potosi,59078
+2021-05-24,primera,Santa Cruz,266271
+2021-05-24,primera,Tarija,56412
+2021-05-24,segunda,Beni,16805
+2021-05-24,segunda,Chuquisaca,20731
+2021-05-24,segunda,Cochabamba,55861
+2021-05-24,segunda,La Paz,71417
+2021-05-24,segunda,Oruro,15848
+2021-05-24,segunda,Pando,4370
+2021-05-24,segunda,Potosi,20269
+2021-05-24,segunda,Santa Cruz,79955
+2021-05-24,segunda,Tarija,17552
+2021-05-25,primera,Beni,65902
+2021-05-25,primera,Chuquisaca,75076
+2021-05-25,primera,Cochabamba,245065
+2021-05-25,primera,La Paz,266217
+2021-05-25,primera,Oruro,64903
+2021-05-25,primera,Pando,33658
+2021-05-25,primera,Potosi,60562
+2021-05-25,primera,Santa Cruz,274734
+2021-05-25,primera,Tarija,58990
+2021-05-25,segunda,Beni,16919
+2021-05-25,segunda,Chuquisaca,21395
+2021-05-25,segunda,Cochabamba,58489
+2021-05-25,segunda,La Paz,72449
+2021-05-25,segunda,Oruro,15857
+2021-05-25,segunda,Pando,4456
+2021-05-25,segunda,Potosi,20533
+2021-05-25,segunda,Santa Cruz,84535
+2021-05-25,segunda,Tarija,17904
+2021-05-26,primera,Beni,66929
+2021-05-26,primera,Chuquisaca,77855
+2021-05-26,primera,Cochabamba,253107
+2021-05-26,primera,La Paz,276131
+2021-05-26,primera,Oruro,66684
+2021-05-26,primera,Pando,34023
+2021-05-26,primera,Potosi,61857
+2021-05-26,primera,Santa Cruz,286897
+2021-05-26,primera,Tarija,62242
+2021-05-26,segunda,Beni,17045
+2021-05-26,segunda,Chuquisaca,21950
+2021-05-26,segunda,Cochabamba,61206
+2021-05-26,segunda,La Paz,76732
+2021-05-26,segunda,Oruro,17579
+2021-05-26,segunda,Pando,4539
+2021-05-26,segunda,Potosi,20689
+2021-05-26,segunda,Santa Cruz,88162
+2021-05-26,segunda,Tarija,18330
+2021-05-27,primera,Beni,67308
+2021-05-27,primera,Chuquisaca,80245
+2021-05-27,primera,Cochabamba,259520
+2021-05-27,primera,La Paz,285659
+2021-05-27,primera,Oruro,69060
+2021-05-27,primera,Pando,34201
+2021-05-27,primera,Potosi,63053
+2021-05-27,primera,Santa Cruz,301116
+2021-05-27,primera,Tarija,64151
+2021-05-27,segunda,Beni,17134
+2021-05-27,segunda,Chuquisaca,22220
+2021-05-27,segunda,Cochabamba,64178
+2021-05-27,segunda,La Paz,83954
+2021-05-27,segunda,Oruro,18052
+2021-05-27,segunda,Pando,4604
+2021-05-27,segunda,Potosi,20810
+2021-05-27,segunda,Santa Cruz,90397
+2021-05-27,segunda,Tarija,18687
+2021-05-28,primera,Beni,68373
+2021-05-28,primera,Chuquisaca,83065
+2021-05-28,primera,Cochabamba,266966
+2021-05-28,primera,La Paz,297990
+2021-05-28,primera,Oruro,71828
+2021-05-28,primera,Pando,34343
+2021-05-28,primera,Potosi,64626
+2021-05-28,primera,Santa Cruz,317361
+2021-05-28,primera,Tarija,66710
+2021-05-28,segunda,Beni,17398
+2021-05-28,segunda,Chuquisaca,22419
+2021-05-28,segunda,Cochabamba,64255
+2021-05-28,segunda,La Paz,87018
+2021-05-28,segunda,Oruro,18112
+2021-05-28,segunda,Pando,4631
+2021-05-28,segunda,Potosi,20907
+2021-05-28,segunda,Santa Cruz,91462
+2021-05-28,segunda,Tarija,19194
+2021-05-29,primera,Beni,68512
+2021-05-29,primera,Chuquisaca,84178
+2021-05-29,primera,Cochabamba,267734
+2021-05-29,primera,La Paz,302156
+2021-05-29,primera,Oruro,73158
+2021-05-29,primera,Pando,34403
+2021-05-29,primera,Potosi,65549
+2021-05-29,primera,Santa Cruz,319001
+2021-05-29,primera,Tarija,68833
+2021-05-29,segunda,Beni,17454
+2021-05-29,segunda,Chuquisaca,22777
+2021-05-29,segunda,Cochabamba,64258
+2021-05-29,segunda,La Paz,87363
+2021-05-29,segunda,Oruro,18116
+2021-05-29,segunda,Pando,4673
+2021-05-29,segunda,Potosi,21111
+2021-05-29,segunda,Santa Cruz,91466
+2021-05-29,segunda,Tarija,19431
+2021-05-30,primera,Beni,68615
+2021-05-30,primera,Chuquisaca,84626
+2021-05-30,primera,Cochabamba,268621
+2021-05-30,primera,La Paz,304086
+2021-05-30,primera,Oruro,73404
+2021-05-30,primera,Pando,34425
+2021-05-30,primera,Potosi,65924
+2021-05-30,primera,Santa Cruz,319159
+2021-05-30,primera,Tarija,69418
+2021-05-30,segunda,Beni,17505
+2021-05-30,segunda,Chuquisaca,23001
+2021-05-30,segunda,Cochabamba,64268
+2021-05-30,segunda,La Paz,87616
+2021-05-30,segunda,Oruro,18116
+2021-05-30,segunda,Pando,4681
+2021-05-30,segunda,Potosi,21163
+2021-05-30,segunda,Santa Cruz,91474
+2021-05-30,segunda,Tarija,19441
+2021-05-31,primera,Beni,69402
+2021-05-31,primera,Chuquisaca,87095
+2021-05-31,primera,Cochabamba,274469
+2021-05-31,primera,La Paz,314020
+2021-05-31,primera,Oruro,75553
+2021-05-31,primera,Pando,34753
+2021-05-31,primera,Potosi,67664
+2021-05-31,primera,Santa Cruz,335920
+2021-05-31,primera,Tarija,72913
+2021-05-31,segunda,Beni,17680
+2021-05-31,segunda,Chuquisaca,23537
+2021-05-31,segunda,Cochabamba,64309
+2021-05-31,segunda,La Paz,88420
+2021-05-31,segunda,Oruro,18135
+2021-05-31,segunda,Pando,4806
+2021-05-31,segunda,Potosi,21294
+2021-05-31,segunda,Santa Cruz,91976
+2021-05-31,segunda,Tarija,19937
+2021-06-01,primera,Beni,70456
+2021-06-01,primera,Chuquisaca,88620
+2021-06-01,primera,Cochabamba,280908
+2021-06-01,primera,La Paz,326302
+2021-06-01,primera,Oruro,77615
+2021-06-01,primera,Pando,35047
+2021-06-01,primera,Potosi,69355
+2021-06-01,primera,Santa Cruz,352884
+2021-06-01,primera,Tarija,75605
+2021-06-01,segunda,Beni,17841
+2021-06-01,segunda,Chuquisaca,23973
+2021-06-01,segunda,Cochabamba,64433
+2021-06-01,segunda,La Paz,89415
+2021-06-01,segunda,Oruro,18350
+2021-06-01,segunda,Pando,4859
+2021-06-01,segunda,Potosi,21485
+2021-06-01,segunda,Santa Cruz,92267
+2021-06-01,segunda,Tarija,20384
+2021-06-02,primera,Beni,71404
+2021-06-02,primera,Chuquisaca,89820
+2021-06-02,primera,Cochabamba,285062
+2021-06-02,primera,La Paz,337215
+2021-06-02,primera,Oruro,79014
+2021-06-02,primera,Pando,35338
+2021-06-02,primera,Potosi,70821
+2021-06-02,primera,Santa Cruz,366713
+2021-06-02,primera,Tarija,77263
+2021-06-02,segunda,Beni,18067
+2021-06-02,segunda,Chuquisaca,24068
+2021-06-02,segunda,Cochabamba,64608
+2021-06-02,segunda,La Paz,90063
+2021-06-02,segunda,Oruro,18483
+2021-06-02,segunda,Pando,4930
+2021-06-02,segunda,Potosi,21637
+2021-06-02,segunda,Santa Cruz,92513
+2021-06-02,segunda,Tarija,20784
+2021-06-03,primera,Beni,71673
+2021-06-03,primera,Chuquisaca,90795
+2021-06-03,primera,Cochabamba,285716
+2021-06-03,primera,La Paz,338886
+2021-06-03,primera,Oruro,79597
+2021-06-03,primera,Pando,35431
+2021-06-03,primera,Potosi,71484
+2021-06-03,primera,Santa Cruz,368907
+2021-06-03,primera,Tarija,78107
+2021-06-03,segunda,Beni,18147
+2021-06-03,segunda,Chuquisaca,24199
+2021-06-03,segunda,Cochabamba,64793
+2021-06-03,segunda,La Paz,90266
+2021-06-03,segunda,Oruro,18495
+2021-06-03,segunda,Pando,4967
+2021-06-03,segunda,Potosi,21702
+2021-06-03,segunda,Santa Cruz,92694
+2021-06-03,segunda,Tarija,20818
+2021-06-04,primera,Beni,72655
+2021-06-04,primera,Chuquisaca,92707
+2021-06-04,primera,Cochabamba,286903
+2021-06-04,primera,La Paz,345399
+2021-06-04,primera,Oruro,80981
+2021-06-04,primera,Pando,35715
+2021-06-04,primera,Potosi,72629
+2021-06-04,primera,Santa Cruz,376220
+2021-06-04,primera,Tarija,80962
+2021-06-04,segunda,Beni,18362
+2021-06-04,segunda,Chuquisaca,24615
+2021-06-04,segunda,Cochabamba,67251
+2021-06-04,segunda,La Paz,97541
+2021-06-04,segunda,Oruro,18541
+2021-06-04,segunda,Pando,5024
+2021-06-04,segunda,Potosi,21877
+2021-06-04,segunda,Santa Cruz,96547
+2021-06-04,segunda,Tarija,20956
+2021-06-05,primera,Beni,72931
+2021-06-05,primera,Chuquisaca,93781
+2021-06-05,primera,Cochabamba,287183
+2021-06-05,primera,La Paz,348199
+2021-06-05,primera,Oruro,81391
+2021-06-05,primera,Pando,35793
+2021-06-05,primera,Potosi,73265
+2021-06-05,primera,Santa Cruz,377159
+2021-06-05,primera,Tarija,81406
+2021-06-05,segunda,Beni,18439
+2021-06-05,segunda,Chuquisaca,25658
+2021-06-05,segunda,Cochabamba,67638
+2021-06-05,segunda,La Paz,98887
+2021-06-05,segunda,Oruro,18717
+2021-06-05,segunda,Pando,5038
+2021-06-05,segunda,Potosi,21983
+2021-06-05,segunda,Santa Cruz,97167
+2021-06-05,segunda,Tarija,21011
+2021-06-06,primera,Beni,73017
+2021-06-06,primera,Chuquisaca,94501
+2021-06-06,primera,Cochabamba,287486
+2021-06-06,primera,La Paz,349571
+2021-06-06,primera,Oruro,81493
+2021-06-06,primera,Pando,35799
+2021-06-06,primera,Potosi,73679
+2021-06-06,primera,Santa Cruz,377247
+2021-06-06,primera,Tarija,81469
+2021-06-06,segunda,Beni,18441
+2021-06-06,segunda,Chuquisaca,25667
+2021-06-06,segunda,Cochabamba,67913
+2021-06-06,segunda,La Paz,99039
+2021-06-06,segunda,Oruro,18886
+2021-06-06,segunda,Pando,5076
+2021-06-06,segunda,Potosi,22030
+2021-06-06,segunda,Santa Cruz,97223
+2021-06-06,segunda,Tarija,21023
+2021-06-07,primera,Beni,73696
+2021-06-07,primera,Chuquisaca,95623
+2021-06-07,primera,Cochabamba,290184
+2021-06-07,primera,La Paz,355224
+2021-06-07,primera,Oruro,81645
+2021-06-07,primera,Pando,35965
+2021-06-07,primera,Potosi,74862
+2021-06-07,primera,Santa Cruz,381548
+2021-06-07,primera,Tarija,82086
+2021-06-07,segunda,Beni,18575
+2021-06-07,segunda,Chuquisaca,25672
+2021-06-07,segunda,Cochabamba,81193
+2021-06-07,segunda,La Paz,106778
+2021-06-07,segunda,Oruro,20115
+2021-06-07,segunda,Pando,5164
+2021-06-07,segunda,Potosi,22108
+2021-06-07,segunda,Santa Cruz,106162
+2021-06-07,segunda,Tarija,22102
+2021-06-08,primera,Beni,75040
+2021-06-08,primera,Chuquisaca,96803
+2021-06-08,primera,Cochabamba,291443
+2021-06-08,primera,La Paz,362322
+2021-06-08,primera,Oruro,82418
+2021-06-08,primera,Pando,36243
+2021-06-08,primera,Potosi,76703
+2021-06-08,primera,Santa Cruz,386613
+2021-06-08,primera,Tarija,83352
+2021-06-08,segunda,Beni,18782
+2021-06-08,segunda,Chuquisaca,27101
+2021-06-08,segunda,Cochabamba,93924
+2021-06-08,segunda,La Paz,116043
+2021-06-08,segunda,Oruro,22739
+2021-06-08,segunda,Pando,5533
+2021-06-08,segunda,Potosi,22309
+2021-06-08,segunda,Santa Cruz,118090
+2021-06-08,segunda,Tarija,24637
+2021-06-09,primera,Beni,75807
+2021-06-09,primera,Chuquisaca,97814
+2021-06-09,primera,Cochabamba,292513
+2021-06-09,primera,La Paz,367962
+2021-06-09,primera,Oruro,83308
+2021-06-09,primera,Pando,36417
+2021-06-09,primera,Potosi,77752
+2021-06-09,primera,Santa Cruz,390174
+2021-06-09,primera,Tarija,84225
+2021-06-09,segunda,Beni,18976
+2021-06-09,segunda,Chuquisaca,29240
+2021-06-09,segunda,Cochabamba,101287
+2021-06-09,segunda,La Paz,123757
+2021-06-09,segunda,Oruro,24432
+2021-06-09,segunda,Pando,5716
+2021-06-09,segunda,Potosi,22527
+2021-06-09,segunda,Santa Cruz,125947
+2021-06-09,segunda,Tarija,25552
+2021-06-10,primera,Beni,76505
+2021-06-10,primera,Chuquisaca,98193
+2021-06-10,primera,Cochabamba,293206
+2021-06-10,primera,La Paz,371797
+2021-06-10,primera,Oruro,84021
+2021-06-10,primera,Pando,36565
+2021-06-10,primera,Potosi,78324
+2021-06-10,primera,Santa Cruz,392819
+2021-06-10,primera,Tarija,84796
+2021-06-10,segunda,Beni,19149
+2021-06-10,segunda,Chuquisaca,30929
+2021-06-10,segunda,Cochabamba,106354
+2021-06-10,segunda,La Paz,129636
+2021-06-10,segunda,Oruro,25262
+2021-06-10,segunda,Pando,5980
+2021-06-10,segunda,Potosi,22788
+2021-06-10,segunda,Santa Cruz,130339
+2021-06-10,segunda,Tarija,26137
+2021-06-11,primera,Beni,78100
+2021-06-11,primera,Chuquisaca,98570
+2021-06-11,primera,Cochabamba,294377
+2021-06-11,primera,La Paz,379364
+2021-06-11,primera,Oruro,87237
+2021-06-11,primera,Pando,36814
+2021-06-11,primera,Potosi,79636
+2021-06-11,primera,Santa Cruz,398695
+2021-06-11,primera,Tarija,85636
+2021-06-11,segunda,Beni,19436
+2021-06-11,segunda,Chuquisaca,32565
+2021-06-11,segunda,Cochabamba,111459
+2021-06-11,segunda,La Paz,136362
+2021-06-11,segunda,Oruro,26147
+2021-06-11,segunda,Pando,6216
+2021-06-11,segunda,Potosi,23392
+2021-06-11,segunda,Santa Cruz,136411
+2021-06-11,segunda,Tarija,27246
+2021-06-12,primera,Beni,78615
+2021-06-12,primera,Chuquisaca,98632
+2021-06-12,primera,Cochabamba,294541
+2021-06-12,primera,La Paz,380680
+2021-06-12,primera,Oruro,87450
+2021-06-12,primera,Pando,36922
+2021-06-12,primera,Potosi,80132
+2021-06-12,primera,Santa Cruz,399600
+2021-06-12,primera,Tarija,86016
+2021-06-12,segunda,Beni,19583
+2021-06-12,segunda,Chuquisaca,32947
+2021-06-12,segunda,Cochabamba,112033
+2021-06-12,segunda,La Paz,137556
+2021-06-12,segunda,Oruro,26390
+2021-06-12,segunda,Pando,6278
+2021-06-12,segunda,Potosi,23541
+2021-06-12,segunda,Santa Cruz,136772
+2021-06-12,segunda,Tarija,27503
+2021-06-13,primera,Beni,78688
+2021-06-13,primera,Chuquisaca,98864
+2021-06-13,primera,Cochabamba,294729
+2021-06-13,primera,La Paz,381377
+2021-06-13,primera,Oruro,87468
+2021-06-13,primera,Pando,36943
+2021-06-13,primera,Potosi,80773
+2021-06-13,primera,Santa Cruz,399758
+2021-06-13,primera,Tarija,86130
+2021-06-13,segunda,Beni,19584
+2021-06-13,segunda,Chuquisaca,33168
+2021-06-13,segunda,Cochabamba,112414
+2021-06-13,segunda,La Paz,138657
+2021-06-13,segunda,Oruro,26597
+2021-06-13,segunda,Pando,6322
+2021-06-13,segunda,Potosi,23654
+2021-06-13,segunda,Santa Cruz,136829
+2021-06-13,segunda,Tarija,27674
+2021-06-14,primera,Beni,79436
+2021-06-14,primera,Chuquisaca,99094
+2021-06-14,primera,Cochabamba,295191
+2021-06-14,primera,La Paz,384591
+2021-06-14,primera,Oruro,87579
+2021-06-14,primera,Pando,37052
+2021-06-14,primera,Potosi,81991
+2021-06-14,primera,Santa Cruz,405231
+2021-06-14,primera,Tarija,86555
+2021-06-14,segunda,Beni,19720
+2021-06-14,segunda,Chuquisaca,34036
+2021-06-14,segunda,Cochabamba,114705
+2021-06-14,segunda,La Paz,141350
+2021-06-14,segunda,Oruro,26889
+2021-06-14,segunda,Pando,6457
+2021-06-14,segunda,Potosi,24288
+2021-06-14,segunda,Santa Cruz,139528
+2021-06-14,segunda,Tarija,28698
+2021-06-15,primera,Beni,80121
+2021-06-15,primera,Chuquisaca,99366
+2021-06-15,primera,Cochabamba,297688
+2021-06-15,primera,La Paz,388335
+2021-06-15,primera,Oruro,88107
+2021-06-15,primera,Pando,37188
+2021-06-15,primera,Potosi,83389
+2021-06-15,primera,Santa Cruz,410799
+2021-06-15,primera,Tarija,87358
+2021-06-15,segunda,Beni,19942
+2021-06-15,segunda,Chuquisaca,34743
+2021-06-15,segunda,Cochabamba,116642
+2021-06-15,segunda,La Paz,143310
+2021-06-15,segunda,Oruro,27242
+2021-06-15,segunda,Pando,6649
+2021-06-15,segunda,Potosi,24936
+2021-06-15,segunda,Santa Cruz,141688
+2021-06-15,segunda,Tarija,29719
+2021-06-16,primera,Beni,80967
+2021-06-16,primera,Chuquisaca,100249
+2021-06-16,primera,Cochabamba,302310
+2021-06-16,primera,La Paz,392255
+2021-06-16,primera,Oruro,89601
+2021-06-16,primera,Pando,37345
+2021-06-16,primera,Potosi,84641
+2021-06-16,primera,Santa Cruz,417274
+2021-06-16,primera,Tarija,89847
+2021-06-16,segunda,Beni,20269
+2021-06-16,segunda,Chuquisaca,35480
+2021-06-16,segunda,Cochabamba,119387
+2021-06-16,segunda,La Paz,146163
+2021-06-16,segunda,Oruro,27563
+2021-06-16,segunda,Pando,6872
+2021-06-16,segunda,Potosi,25438
+2021-06-16,segunda,Santa Cruz,144492
+2021-06-16,segunda,Tarija,30935
+2021-06-17,primera,Beni,81931
+2021-06-17,primera,Chuquisaca,101550
+2021-06-17,primera,Cochabamba,306901
+2021-06-17,primera,La Paz,396858
+2021-06-17,primera,Oruro,90755
+2021-06-17,primera,Pando,37626
+2021-06-17,primera,Potosi,85550
+2021-06-17,primera,Santa Cruz,422664
+2021-06-17,primera,Tarija,91679
+2021-06-17,segunda,Beni,20608
+2021-06-17,segunda,Chuquisaca,35897
+2021-06-17,segunda,Cochabamba,120820
+2021-06-17,segunda,La Paz,149422
+2021-06-17,segunda,Oruro,28003
+2021-06-17,segunda,Pando,7020
+2021-06-17,segunda,Potosi,25982
+2021-06-17,segunda,Santa Cruz,146537
+2021-06-17,segunda,Tarija,31649
+2021-06-18,primera,Beni,82516
+2021-06-18,primera,Chuquisaca,102508
+2021-06-18,primera,Cochabamba,310834
+2021-06-18,primera,La Paz,401732
+2021-06-18,primera,Oruro,91778
+2021-06-18,primera,Pando,37925
+2021-06-18,primera,Potosi,86489
+2021-06-18,primera,Santa Cruz,427597
+2021-06-18,primera,Tarija,92902
+2021-06-18,segunda,Beni,20808
+2021-06-18,segunda,Chuquisaca,36451
+2021-06-18,segunda,Cochabamba,122361
+2021-06-18,segunda,La Paz,152993
+2021-06-18,segunda,Oruro,28982
+2021-06-18,segunda,Pando,7158
+2021-06-18,segunda,Potosi,26687
+2021-06-18,segunda,Santa Cruz,149040
+2021-06-18,segunda,Tarija,32720
+2021-06-19,primera,Beni,82782
+2021-06-19,primera,Chuquisaca,102677
+2021-06-19,primera,Cochabamba,311133
+2021-06-19,primera,La Paz,403522
+2021-06-19,primera,Oruro,92377
+2021-06-19,primera,Pando,38045
+2021-06-19,primera,Potosi,86977
+2021-06-19,primera,Santa Cruz,428873
+2021-06-19,primera,Tarija,93140
+2021-06-19,segunda,Beni,20941
+2021-06-19,segunda,Chuquisaca,36664
+2021-06-19,segunda,Cochabamba,122932
+2021-06-19,segunda,La Paz,154505
+2021-06-19,segunda,Oruro,29637
+2021-06-19,segunda,Pando,7197
+2021-06-19,segunda,Potosi,27118
+2021-06-19,segunda,Santa Cruz,149526
+2021-06-19,segunda,Tarija,33884
+2021-06-20,primera,Beni,82836
+2021-06-20,primera,Chuquisaca,102733
+2021-06-20,primera,Cochabamba,311197
+2021-06-20,primera,La Paz,404466
+2021-06-20,primera,Oruro,92384
+2021-06-20,primera,Pando,38053
+2021-06-20,primera,Potosi,87082
+2021-06-20,primera,Santa Cruz,431953
+2021-06-20,primera,Tarija,93166
+2021-06-20,segunda,Beni,20979
+2021-06-20,segunda,Chuquisaca,36752
+2021-06-20,segunda,Cochabamba,123304
+2021-06-20,segunda,La Paz,155198
+2021-06-20,segunda,Oruro,29837
+2021-06-20,segunda,Pando,7202
+2021-06-20,segunda,Potosi,27222
+2021-06-20,segunda,Santa Cruz,149568
+2021-06-20,segunda,Tarija,34035
+2021-06-21,primera,Beni,82866
+2021-06-21,primera,Chuquisaca,102798
+2021-06-21,primera,Cochabamba,311267
+2021-06-21,primera,La Paz,405088
+2021-06-21,primera,Oruro,92401
+2021-06-21,primera,Pando,38065
+2021-06-21,primera,Potosi,87470
+2021-06-21,primera,Santa Cruz,432072
+2021-06-21,primera,Tarija,93262
+2021-06-21,segunda,Beni,21100
+2021-06-21,segunda,Chuquisaca,37132
+2021-06-21,segunda,Cochabamba,123772
+2021-06-21,segunda,La Paz,155867
+2021-06-21,segunda,Oruro,29989
+2021-06-21,segunda,Pando,7211
+2021-06-21,segunda,Potosi,27539
+2021-06-21,segunda,Santa Cruz,149766
+2021-06-21,segunda,Tarija,34176
+2021-06-22,primera,Beni,83388
+2021-06-22,primera,Chuquisaca,103466
+2021-06-22,primera,Cochabamba,314471
+2021-06-22,primera,La Paz,408670
+2021-06-22,primera,Oruro,93042
+2021-06-22,primera,Pando,38183
+2021-06-22,primera,Potosi,88027
+2021-06-22,primera,Santa Cruz,435565
+2021-06-22,primera,Tarija,93777
+2021-06-22,segunda,Beni,21393
+2021-06-22,segunda,Chuquisaca,38248
+2021-06-22,segunda,Cochabamba,127919
+2021-06-22,segunda,La Paz,158922
+2021-06-22,segunda,Oruro,31501
+2021-06-22,segunda,Pando,7351
+2021-06-22,segunda,Potosi,28397
+2021-06-22,segunda,Santa Cruz,158350
+2021-06-22,segunda,Tarija,37111
+2021-06-23,primera,Beni,84039
+2021-06-23,primera,Chuquisaca,104901
+2021-06-23,primera,Cochabamba,319353
+2021-06-23,primera,La Paz,416093
+2021-06-23,primera,Oruro,93674
+2021-06-23,primera,Pando,38431
+2021-06-23,primera,Potosi,88714
+2021-06-23,primera,Santa Cruz,444626
+2021-06-23,primera,Tarija,94351
+2021-06-23,segunda,Beni,21661
+2021-06-23,segunda,Chuquisaca,39179
+2021-06-23,segunda,Cochabamba,132342
+2021-06-23,segunda,La Paz,162017
+2021-06-23,segunda,Oruro,32994
+2021-06-23,segunda,Pando,7523
+2021-06-23,segunda,Potosi,29142
+2021-06-23,segunda,Santa Cruz,168076
+2021-06-23,segunda,Tarija,38930
+2021-06-24,primera,Beni,84651
+2021-06-24,primera,Chuquisaca,106437
+2021-06-24,primera,Cochabamba,325510
+2021-06-24,primera,La Paz,425288
+2021-06-24,primera,Oruro,94564
+2021-06-24,primera,Pando,38615
+2021-06-24,primera,Potosi,89447
+2021-06-24,primera,Santa Cruz,460685
+2021-06-24,primera,Tarija,97962
+2021-06-24,segunda,Beni,21859
+2021-06-24,segunda,Chuquisaca,40211
+2021-06-24,segunda,Cochabamba,134075
+2021-06-24,segunda,La Paz,163725
+2021-06-24,segunda,Oruro,33763
+2021-06-24,segunda,Pando,7751
+2021-06-24,segunda,Potosi,29628
+2021-06-24,segunda,Santa Cruz,170669
+2021-06-24,segunda,Tarija,39670
+2021-06-25,primera,Beni,85300
+2021-06-25,primera,Chuquisaca,108095
+2021-06-25,primera,Cochabamba,332656
+2021-06-25,primera,La Paz,434925
+2021-06-25,primera,Oruro,95880
+2021-06-25,primera,Pando,38761
+2021-06-25,primera,Potosi,92046
+2021-06-25,primera,Santa Cruz,477491
+2021-06-25,primera,Tarija,101841
+2021-06-25,segunda,Beni,22123
+2021-06-25,segunda,Chuquisaca,41379
+2021-06-25,segunda,Cochabamba,135368
+2021-06-25,segunda,La Paz,165864
+2021-06-25,segunda,Oruro,34787
+2021-06-25,segunda,Pando,7897
+2021-06-25,segunda,Potosi,30218
+2021-06-25,segunda,Santa Cruz,175995
+2021-06-25,segunda,Tarija,41937
+2021-06-26,primera,Beni,85489
+2021-06-26,primera,Chuquisaca,108580
+2021-06-26,primera,Cochabamba,333168
+2021-06-26,primera,La Paz,436619
+2021-06-26,primera,Oruro,96875
+2021-06-26,primera,Pando,38770
+2021-06-26,primera,Potosi,92320
+2021-06-26,primera,Santa Cruz,482171
+2021-06-26,primera,Tarija,104290
+2021-06-26,segunda,Beni,22199
+2021-06-26,segunda,Chuquisaca,42130
+2021-06-26,segunda,Cochabamba,135670
+2021-06-26,segunda,La Paz,167128
+2021-06-26,segunda,Oruro,35069
+2021-06-26,segunda,Pando,7961
+2021-06-26,segunda,Potosi,30369
+2021-06-26,segunda,Santa Cruz,176571
+2021-06-26,segunda,Tarija,42281
+2021-06-27,primera,Beni,85588
+2021-06-27,primera,Chuquisaca,108672
+2021-06-27,primera,Cochabamba,333600
+2021-06-27,primera,La Paz,437629
+2021-06-27,primera,Oruro,96984
+2021-06-27,primera,Pando,38808
+2021-06-27,primera,Potosi,92649
+2021-06-27,primera,Santa Cruz,489817
+2021-06-27,primera,Tarija,104481
+2021-06-27,segunda,Beni,22263
+2021-06-27,segunda,Chuquisaca,42665
+2021-06-27,segunda,Cochabamba,135864
+2021-06-27,segunda,La Paz,168464
+2021-06-27,segunda,Oruro,35237
+2021-06-27,segunda,Pando,7993
+2021-06-27,segunda,Potosi,30548
+2021-06-27,segunda,Santa Cruz,176833
+2021-06-27,segunda,Tarija,42415
+2021-06-28,primera,Beni,86009
+2021-06-28,primera,Chuquisaca,110022
+2021-06-28,primera,Cochabamba,338663
+2021-06-28,primera,La Paz,445199
+2021-06-28,primera,Oruro,98245
+2021-06-28,primera,Pando,38883
+2021-06-28,primera,Potosi,93805
+2021-06-28,primera,Santa Cruz,504391
+2021-06-28,primera,Tarija,107893
+2021-06-28,segunda,Beni,23102
+2021-06-28,segunda,Chuquisaca,43715
+2021-06-28,segunda,Cochabamba,139369
+2021-06-28,segunda,La Paz,171730
+2021-06-28,segunda,Oruro,35882
+2021-06-28,segunda,Pando,8121
+2021-06-28,segunda,Potosi,31304
+2021-06-28,segunda,Santa Cruz,180259
+2021-06-28,segunda,Tarija,43043
+2021-06-29,primera,Beni,86591
+2021-06-29,primera,Chuquisaca,111302
+2021-06-29,primera,Cochabamba,343310
+2021-06-29,primera,La Paz,452510
+2021-06-29,primera,Oruro,100038
+2021-06-29,primera,Pando,39021
+2021-06-29,primera,Potosi,95426
+2021-06-29,primera,Santa Cruz,518160
+2021-06-29,primera,Tarija,111393
+2021-06-29,segunda,Beni,23823
+2021-06-29,segunda,Chuquisaca,44673
+2021-06-29,segunda,Cochabamba,141612
+2021-06-29,segunda,La Paz,176104
+2021-06-29,segunda,Oruro,36851
+2021-06-29,segunda,Pando,8250
+2021-06-29,segunda,Potosi,32084
+2021-06-29,segunda,Santa Cruz,184169
+2021-06-29,segunda,Tarija,44086
+2021-06-30,primera,Beni,87077
+2021-06-30,primera,Chuquisaca,112444
+2021-06-30,primera,Cochabamba,347897
+2021-06-30,primera,La Paz,458753
+2021-06-30,primera,Oruro,101357
+2021-06-30,primera,Pando,39090
+2021-06-30,primera,Potosi,96281
+2021-06-30,primera,Santa Cruz,527751
+2021-06-30,primera,Tarija,114663
+2021-06-30,segunda,Beni,24584
+2021-06-30,segunda,Chuquisaca,45357
+2021-06-30,segunda,Cochabamba,144035
+2021-06-30,segunda,La Paz,180476
+2021-06-30,segunda,Oruro,37893
+2021-06-30,segunda,Pando,8620
+2021-06-30,segunda,Potosi,32445
+2021-06-30,segunda,Santa Cruz,187181
+2021-06-30,segunda,Tarija,44931
+2021-07-01,primera,Beni,88095
+2021-07-01,primera,Chuquisaca,114757
+2021-07-01,primera,Cochabamba,356912
+2021-07-01,primera,La Paz,469349
+2021-07-01,primera,Oruro,103575
+2021-07-01,primera,Pando,39314
+2021-07-01,primera,Potosi,97545
+2021-07-01,primera,Santa Cruz,538426
+2021-07-01,primera,Tarija,119244
+2021-07-01,segunda,Beni,25462
+2021-07-01,segunda,Chuquisaca,45944
+2021-07-01,segunda,Cochabamba,145659
+2021-07-01,segunda,La Paz,185181
+2021-07-01,segunda,Oruro,39459
+2021-07-01,segunda,Pando,9219
+2021-07-01,segunda,Potosi,33114
+2021-07-01,segunda,Santa Cruz,190662
+2021-07-01,segunda,Tarija,45627
+2021-07-02,primera,Beni,89185
+2021-07-02,primera,Chuquisaca,118275
+2021-07-02,primera,Cochabamba,369116
+2021-07-02,primera,La Paz,484244
+2021-07-02,primera,Oruro,106810
+2021-07-02,primera,Pando,39461
+2021-07-02,primera,Potosi,99455
+2021-07-02,primera,Santa Cruz,556530
+2021-07-02,primera,Tarija,124692
+2021-07-02,segunda,Beni,26225
+2021-07-02,segunda,Chuquisaca,46540
+2021-07-02,segunda,Cochabamba,146802
+2021-07-02,segunda,La Paz,188897
+2021-07-02,segunda,Oruro,41589
+2021-07-02,segunda,Pando,9456
+2021-07-02,segunda,Potosi,33507
+2021-07-02,segunda,Santa Cruz,193717
+2021-07-02,segunda,Tarija,46448
+2021-07-03,primera,Beni,89412
+2021-07-03,primera,Chuquisaca,119624
+2021-07-03,primera,Cochabamba,371140
+2021-07-03,primera,La Paz,486904
+2021-07-03,primera,Oruro,107727
+2021-07-03,primera,Pando,39481
+2021-07-03,primera,Potosi,100759
+2021-07-03,primera,Santa Cruz,560261
+2021-07-03,primera,Tarija,127683
+2021-07-03,segunda,Beni,26469
+2021-07-03,segunda,Chuquisaca,46875
+2021-07-03,segunda,Cochabamba,147019
+2021-07-03,segunda,La Paz,189792
+2021-07-03,segunda,Oruro,41948
+2021-07-03,segunda,Pando,9488
+2021-07-03,segunda,Potosi,33596
+2021-07-03,segunda,Santa Cruz,194070
+2021-07-03,segunda,Tarija,46664
+2021-07-04,primera,Beni,89558
+2021-07-04,primera,Chuquisaca,121414
+2021-07-04,primera,Cochabamba,373197
+2021-07-04,primera,La Paz,489471
+2021-07-04,primera,Oruro,108221
+2021-07-04,primera,Pando,39508
+2021-07-04,primera,Potosi,102295
+2021-07-04,primera,Santa Cruz,571750
+2021-07-04,primera,Tarija,129040
+2021-07-04,segunda,Beni,26645
+2021-07-04,segunda,Chuquisaca,47278
+2021-07-04,segunda,Cochabamba,147380
+2021-07-04,segunda,La Paz,190542
+2021-07-04,segunda,Oruro,42012
+2021-07-04,segunda,Pando,9511
+2021-07-04,segunda,Potosi,34171
+2021-07-04,segunda,Santa Cruz,194235
+2021-07-04,segunda,Tarija,46766
+2021-07-05,primera,Beni,90275
+2021-07-05,primera,Chuquisaca,123480
+2021-07-05,primera,Cochabamba,379744
+2021-07-05,primera,La Paz,497109
+2021-07-05,primera,Oruro,109599
+2021-07-05,primera,Pando,39560
+2021-07-05,primera,Potosi,103184
+2021-07-05,primera,Santa Cruz,586420
+2021-07-05,primera,Tarija,132755
+2021-07-05,segunda,Beni,27424
+2021-07-05,segunda,Chuquisaca,47498
+2021-07-05,segunda,Cochabamba,149413
+2021-07-05,segunda,La Paz,191663
+2021-07-05,segunda,Oruro,42178
+2021-07-05,segunda,Pando,9841
+2021-07-05,segunda,Potosi,34411
+2021-07-05,segunda,Santa Cruz,196316
+2021-07-05,segunda,Tarija,47042
+2021-07-06,primera,Beni,91656
+2021-07-06,primera,Chuquisaca,127403
+2021-07-06,primera,Cochabamba,391861
+2021-07-06,primera,La Paz,515929
+2021-07-06,primera,Oruro,113445
+2021-07-06,primera,Pando,39661
+2021-07-06,primera,Potosi,105586
+2021-07-06,primera,Santa Cruz,614905
+2021-07-06,primera,Tarija,137674
+2021-07-06,segunda,Beni,27904
+2021-07-06,segunda,Chuquisaca,47887
+2021-07-06,segunda,Cochabamba,152226
+2021-07-06,segunda,La Paz,193140
+2021-07-06,segunda,Oruro,42850
+2021-07-06,segunda,Pando,10104
+2021-07-06,segunda,Potosi,35033
+2021-07-06,segunda,Santa Cruz,199099
+2021-07-06,segunda,Tarija,47655
+2021-07-07,primera,Beni,93538
+2021-07-07,primera,Chuquisaca,130885
+2021-07-07,primera,Cochabamba,401681
+2021-07-07,primera,La Paz,528989
+2021-07-07,primera,Oruro,115999
+2021-07-07,primera,Pando,39772
+2021-07-07,primera,Potosi,107954
+2021-07-07,primera,Santa Cruz,641236
+2021-07-07,primera,Tarija,144245
+2021-07-07,segunda,Beni,29170
+2021-07-07,segunda,Chuquisaca,48490
+2021-07-07,segunda,Cochabamba,155139
+2021-07-07,segunda,La Paz,195252
+2021-07-07,segunda,Oruro,44192
+2021-07-07,segunda,Pando,10856
+2021-07-07,segunda,Potosi,35691
+2021-07-07,segunda,Santa Cruz,202265
+2021-07-07,segunda,Tarija,48682
+2021-07-08,primera,Beni,95026
+2021-07-08,primera,Chuquisaca,133590
+2021-07-08,primera,Cochabamba,410017
+2021-07-08,primera,La Paz,539790
+2021-07-08,primera,Oruro,117894
+2021-07-08,primera,Pando,39943
+2021-07-08,primera,Potosi,110081
+2021-07-08,primera,Santa Cruz,654189
+2021-07-08,primera,Tarija,149036
+2021-07-08,segunda,Beni,29818
+2021-07-08,segunda,Chuquisaca,49088
+2021-07-08,segunda,Cochabamba,157572
+2021-07-08,segunda,La Paz,198084
+2021-07-08,segunda,Oruro,45280
+2021-07-08,segunda,Pando,11484
+2021-07-08,segunda,Potosi,36240
+2021-07-08,segunda,Santa Cruz,204658
+2021-07-08,segunda,Tarija,50012
+2021-07-09,primera,Beni,96254
+2021-07-09,primera,Chuquisaca,136565
+2021-07-09,primera,Cochabamba,417984
+2021-07-09,primera,La Paz,552244
+2021-07-09,primera,Oruro,120490
+2021-07-09,primera,Pando,40082
+2021-07-09,primera,Potosi,112836
+2021-07-09,primera,Santa Cruz,660136
+2021-07-09,primera,Tarija,153341
+2021-07-09,segunda,Beni,30425
+2021-07-09,segunda,Chuquisaca,49533
+2021-07-09,segunda,Cochabamba,159077
+2021-07-09,segunda,La Paz,199889
+2021-07-09,segunda,Oruro,45856
+2021-07-09,segunda,Pando,12057
+2021-07-09,segunda,Potosi,36696
+2021-07-09,segunda,Santa Cruz,206458
+2021-07-09,segunda,Tarija,50681
+2021-07-10,primera,Beni,96291
+2021-07-10,primera,Chuquisaca,137753
+2021-07-10,primera,Cochabamba,419919
+2021-07-10,primera,La Paz,555156
+2021-07-10,primera,Oruro,121050
+2021-07-10,primera,Pando,40096
+2021-07-10,primera,Potosi,114166
+2021-07-10,primera,Santa Cruz,665109
+2021-07-10,primera,Tarija,154535
+2021-07-10,segunda,Beni,30443
+2021-07-10,segunda,Chuquisaca,49733
+2021-07-10,segunda,Cochabamba,159396
+2021-07-10,segunda,La Paz,200585
+2021-07-10,segunda,Oruro,46018
+2021-07-10,segunda,Pando,12072
+2021-07-10,segunda,Potosi,36990
+2021-07-10,segunda,Santa Cruz,206734
+2021-07-10,segunda,Tarija,50872
+2021-07-11,primera,Beni,96334
+2021-07-11,primera,Chuquisaca,138711
+2021-07-11,primera,Cochabamba,421051
+2021-07-11,primera,La Paz,556773
+2021-07-11,primera,Oruro,121279
+2021-07-11,primera,Pando,40127
+2021-07-11,primera,Potosi,114717
+2021-07-11,primera,Santa Cruz,677101
+2021-07-11,primera,Tarija,155138
+2021-07-11,segunda,Beni,30622
+2021-07-11,segunda,Chuquisaca,50026
+2021-07-11,segunda,Cochabamba,159872
+2021-07-11,segunda,La Paz,201032
+2021-07-11,segunda,Oruro,46077
+2021-07-11,segunda,Pando,12147
+2021-07-11,segunda,Potosi,37179
+2021-07-11,segunda,Santa Cruz,208326
+2021-07-11,segunda,Tarija,51009
+2021-07-12,primera,Beni,97460
+2021-07-12,primera,Chuquisaca,141080
+2021-07-12,primera,Cochabamba,429161
+2021-07-12,primera,La Paz,568625
+2021-07-12,primera,Oruro,123263
+2021-07-12,primera,Pando,40250
+2021-07-12,primera,Potosi,116384
+2021-07-12,primera,Santa Cruz,698712
+2021-07-12,primera,Tarija,158631
+2021-07-12,segunda,Beni,31350
+2021-07-12,segunda,Chuquisaca,50452
+2021-07-12,segunda,Cochabamba,161703
+2021-07-12,segunda,La Paz,205393
+2021-07-12,segunda,Oruro,46889
+2021-07-12,segunda,Pando,12711
+2021-07-12,segunda,Potosi,38092
+2021-07-12,segunda,Santa Cruz,210461
+2021-07-12,segunda,Tarija,51628
+2021-07-13,primera,Beni,98395
+2021-07-13,primera,Chuquisaca,144244
+2021-07-13,primera,Cochabamba,437793
+2021-07-13,primera,La Paz,581120
+2021-07-13,primera,Oruro,124976
+2021-07-13,primera,Pando,40362
+2021-07-13,primera,Potosi,119081
+2021-07-13,primera,Santa Cruz,720779
+2021-07-13,primera,Tarija,162615
+2021-07-13,segunda,Beni,32004
+2021-07-13,segunda,Chuquisaca,51106
+2021-07-13,segunda,Cochabamba,163228
+2021-07-13,segunda,La Paz,208828
+2021-07-13,segunda,Oruro,47572
+2021-07-13,segunda,Pando,13460
+2021-07-13,segunda,Potosi,38841
+2021-07-13,segunda,Santa Cruz,214163
+2021-07-13,segunda,Tarija,52189
+2021-07-13,única,Beni,0
+2021-07-13,única,Chuquisaca,0
+2021-07-13,única,Cochabamba,0
+2021-07-13,única,La Paz,0
+2021-07-13,única,Oruro,0
+2021-07-13,única,Pando,0
+2021-07-13,única,Potosi,0
+2021-07-13,única,Santa Cruz,0
+2021-07-13,única,Tarija,0
+2021-07-14,primera,Beni,99323
+2021-07-14,primera,Chuquisaca,147527
+2021-07-14,primera,Cochabamba,447018
+2021-07-14,primera,La Paz,592399
+2021-07-14,primera,Oruro,126472
+2021-07-14,primera,Pando,40466
+2021-07-14,primera,Potosi,121106
+2021-07-14,primera,Santa Cruz,741116
+2021-07-14,primera,Tarija,166285
+2021-07-14,segunda,Beni,32826
+2021-07-14,segunda,Chuquisaca,51982
+2021-07-14,segunda,Cochabamba,166005
+2021-07-14,segunda,La Paz,212469
+2021-07-14,segunda,Oruro,48058
+2021-07-14,segunda,Pando,14296
+2021-07-14,segunda,Potosi,39643
+2021-07-14,segunda,Santa Cruz,218836
+2021-07-14,segunda,Tarija,52772
+2021-07-14,única,Beni,0
+2021-07-14,única,Chuquisaca,0
+2021-07-14,única,Cochabamba,0
+2021-07-14,única,La Paz,182
+2021-07-14,única,Oruro,0
+2021-07-14,única,Pando,0
+2021-07-14,única,Potosi,0
+2021-07-14,única,Santa Cruz,0
+2021-07-14,única,Tarija,0
+2021-07-15,primera,Beni,100446
+2021-07-15,primera,Chuquisaca,150124
+2021-07-15,primera,Cochabamba,453988
+2021-07-15,primera,La Paz,604493
+2021-07-15,primera,Oruro,128125
+2021-07-15,primera,Pando,40570
+2021-07-15,primera,Potosi,122700
+2021-07-15,primera,Santa Cruz,757811
+2021-07-15,primera,Tarija,169804
+2021-07-15,segunda,Beni,33688
+2021-07-15,segunda,Chuquisaca,53214
+2021-07-15,segunda,Cochabamba,171603
+2021-07-15,segunda,La Paz,217837
+2021-07-15,segunda,Oruro,48864
+2021-07-15,segunda,Pando,15120
+2021-07-15,segunda,Potosi,40441
+2021-07-15,segunda,Santa Cruz,230214
+2021-07-15,segunda,Tarija,55666
+2021-07-15,única,Beni,0
+2021-07-15,única,Chuquisaca,0
+2021-07-15,única,Cochabamba,0
+2021-07-15,única,La Paz,493
+2021-07-15,única,Oruro,0
+2021-07-15,única,Pando,0
+2021-07-15,única,Potosi,0
+2021-07-15,única,Santa Cruz,118
+2021-07-15,única,Tarija,0
+2021-07-16,primera,Beni,101448
+2021-07-16,primera,Chuquisaca,153351
+2021-07-16,primera,Cochabamba,461793
+2021-07-16,primera,La Paz,604890
+2021-07-16,primera,Oruro,130128
+2021-07-16,primera,Pando,40788
+2021-07-16,primera,Potosi,124668
+2021-07-16,primera,Santa Cruz,771409
+2021-07-16,primera,Tarija,173189
+2021-07-16,segunda,Beni,34231
+2021-07-16,segunda,Chuquisaca,55318
+2021-07-16,segunda,Cochabamba,178364
+2021-07-16,segunda,La Paz,218058
+2021-07-16,segunda,Oruro,50393
+2021-07-16,segunda,Pando,15708
+2021-07-16,segunda,Potosi,41158
+2021-07-16,segunda,Santa Cruz,243481
+2021-07-16,segunda,Tarija,58768
+2021-07-16,única,Beni,0
+2021-07-16,única,Chuquisaca,0
+2021-07-16,única,Cochabamba,0
+2021-07-16,única,La Paz,532
+2021-07-16,única,Oruro,0
+2021-07-16,única,Pando,0
+2021-07-16,única,Potosi,0
+2021-07-16,única,Santa Cruz,6761
+2021-07-16,única,Tarija,0
+2021-07-17,primera,Beni,101645
+2021-07-17,primera,Chuquisaca,154925
+2021-07-17,primera,Cochabamba,465406
+2021-07-17,primera,La Paz,606804
+2021-07-17,primera,Oruro,130582
+2021-07-17,primera,Pando,40871
+2021-07-17,primera,Potosi,125419
+2021-07-17,primera,Santa Cruz,773871
+2021-07-17,primera,Tarija,174760
+2021-07-17,segunda,Beni,34345
+2021-07-17,segunda,Chuquisaca,55858
+2021-07-17,segunda,Cochabamba,178841
+2021-07-17,segunda,La Paz,219521
+2021-07-17,segunda,Oruro,51584
+2021-07-17,segunda,Pando,15955
+2021-07-17,segunda,Potosi,41395
+2021-07-17,segunda,Santa Cruz,246044
+2021-07-17,segunda,Tarija,60492
+2021-07-17,única,Beni,0
+2021-07-17,única,Chuquisaca,0
+2021-07-17,única,Cochabamba,0
+2021-07-17,única,La Paz,569
+2021-07-17,única,Oruro,0
+2021-07-17,única,Pando,0
+2021-07-17,única,Potosi,0
+2021-07-17,única,Santa Cruz,12884
+2021-07-17,única,Tarija,0
+2021-07-18,primera,Beni,101800
+2021-07-18,primera,Chuquisaca,155670
+2021-07-18,primera,Cochabamba,469941
+2021-07-18,primera,La Paz,617441
+2021-07-18,primera,Oruro,130797
+2021-07-18,primera,Pando,40884
+2021-07-18,primera,Potosi,126157
+2021-07-18,primera,Santa Cruz,780044
+2021-07-18,primera,Tarija,176257
+2021-07-18,segunda,Beni,34370
+2021-07-18,segunda,Chuquisaca,56222
+2021-07-18,segunda,Cochabamba,179066
+2021-07-18,segunda,La Paz,220348
+2021-07-18,segunda,Oruro,51649
+2021-07-18,segunda,Pando,15961
+2021-07-18,segunda,Potosi,41682
+2021-07-18,segunda,Santa Cruz,251333
+2021-07-18,segunda,Tarija,60687
+2021-07-18,única,Beni,0
+2021-07-18,única,Chuquisaca,0
+2021-07-18,única,Cochabamba,0
+2021-07-18,única,La Paz,656
+2021-07-18,única,Oruro,0
+2021-07-18,única,Pando,0
+2021-07-18,única,Potosi,0
+2021-07-18,única,Santa Cruz,17255
+2021-07-18,única,Tarija,0
+2021-07-19,primera,Beni,102717
+2021-07-19,primera,Chuquisaca,158466
+2021-07-19,primera,Cochabamba,476690
+2021-07-19,primera,La Paz,627083
+2021-07-19,primera,Oruro,132690
+2021-07-19,primera,Pando,40965
+2021-07-19,primera,Potosi,128056
+2021-07-19,primera,Santa Cruz,793085
+2021-07-19,primera,Tarija,179166
+2021-07-19,segunda,Beni,35082
+2021-07-19,segunda,Chuquisaca,57551
+2021-07-19,segunda,Cochabamba,185272
+2021-07-19,segunda,La Paz,231513
+2021-07-19,segunda,Oruro,53101
+2021-07-19,segunda,Pando,16794
+2021-07-19,segunda,Potosi,42885
+2021-07-19,segunda,Santa Cruz,267628
+2021-07-19,segunda,Tarija,63792
+2021-07-19,única,Beni,0
+2021-07-19,única,Chuquisaca,0
+2021-07-19,única,Cochabamba,0
+2021-07-19,única,La Paz,1077
+2021-07-19,única,Oruro,0
+2021-07-19,única,Pando,0
+2021-07-19,única,Potosi,0
+2021-07-19,única,Santa Cruz,25593
+2021-07-19,única,Tarija,0
+2021-07-20,primera,Beni,103677
+2021-07-20,primera,Chuquisaca,161051
+2021-07-20,primera,Cochabamba,483417
+2021-07-20,primera,La Paz,635502
+2021-07-20,primera,Oruro,134055
+2021-07-20,primera,Pando,41090
+2021-07-20,primera,Potosi,129906
+2021-07-20,primera,Santa Cruz,805109
+2021-07-20,primera,Tarija,182355
+2021-07-20,segunda,Beni,35927
+2021-07-20,segunda,Chuquisaca,58838
+2021-07-20,segunda,Cochabamba,190451
+2021-07-20,segunda,La Paz,240986
+2021-07-20,segunda,Oruro,54322
+2021-07-20,segunda,Pando,17662
+2021-07-20,segunda,Potosi,44097
+2021-07-20,segunda,Santa Cruz,282204
+2021-07-20,segunda,Tarija,66977
+2021-07-20,única,Beni,0
+2021-07-20,única,Chuquisaca,0
+2021-07-20,única,Cochabamba,0
+2021-07-20,única,La Paz,1528
+2021-07-20,única,Oruro,0
+2021-07-20,única,Pando,0
+2021-07-20,única,Potosi,0
+2021-07-20,única,Santa Cruz,37893
+2021-07-20,única,Tarija,0
+2021-07-21,primera,Beni,104742
+2021-07-21,primera,Chuquisaca,163808
+2021-07-21,primera,Cochabamba,489306
+2021-07-21,primera,La Paz,645269
+2021-07-21,primera,Oruro,135401
+2021-07-21,primera,Pando,41201
+2021-07-21,primera,Potosi,131551
+2021-07-21,primera,Santa Cruz,815918
+2021-07-21,primera,Tarija,185805
+2021-07-21,segunda,Beni,36739
+2021-07-21,segunda,Chuquisaca,60113
+2021-07-21,segunda,Cochabamba,196444
+2021-07-21,segunda,La Paz,250173
+2021-07-21,segunda,Oruro,55887
+2021-07-21,segunda,Pando,18432
+2021-07-21,segunda,Potosi,45406
+2021-07-21,segunda,Santa Cruz,294958
+2021-07-21,segunda,Tarija,70528
+2021-07-21,única,Beni,0
+2021-07-21,única,Chuquisaca,0
+2021-07-21,única,Cochabamba,0
+2021-07-21,única,La Paz,2207
+2021-07-21,única,Oruro,0
+2021-07-21,única,Pando,0
+2021-07-21,única,Potosi,178
+2021-07-21,única,Santa Cruz,51950
+2021-07-21,única,Tarija,0
+2021-07-22,primera,Beni,105532
+2021-07-22,primera,Chuquisaca,165597
+2021-07-22,primera,Cochabamba,495065
+2021-07-22,primera,La Paz,652591
+2021-07-22,primera,Oruro,136702
+2021-07-22,primera,Pando,41314
+2021-07-22,primera,Potosi,132935
+2021-07-22,primera,Santa Cruz,824488
+2021-07-22,primera,Tarija,188603
+2021-07-22,segunda,Beni,37632
+2021-07-22,segunda,Chuquisaca,62082
+2021-07-22,segunda,Cochabamba,205708
+2021-07-22,segunda,La Paz,261841
+2021-07-22,segunda,Oruro,57607
+2021-07-22,segunda,Pando,19352
+2021-07-22,segunda,Potosi,46903
+2021-07-22,segunda,Santa Cruz,307209
+2021-07-22,segunda,Tarija,74616
+2021-07-22,única,Beni,0
+2021-07-22,única,Chuquisaca,0
+2021-07-22,única,Cochabamba,0
+2021-07-22,única,La Paz,4517
+2021-07-22,única,Oruro,0
+2021-07-22,única,Pando,0
+2021-07-22,única,Potosi,1027
+2021-07-22,única,Santa Cruz,66437
+2021-07-22,única,Tarija,0
+2021-07-23,primera,Beni,106317
+2021-07-23,primera,Chuquisaca,167454
+2021-07-23,primera,Cochabamba,500197
+2021-07-23,primera,La Paz,658164
+2021-07-23,primera,Oruro,138096
+2021-07-23,primera,Pando,41440
+2021-07-23,primera,Potosi,134244
+2021-07-23,primera,Santa Cruz,832805
+2021-07-23,primera,Tarija,191113
+2021-07-23,segunda,Beni,38627
+2021-07-23,segunda,Chuquisaca,64964
+2021-07-23,segunda,Cochabamba,217088
+2021-07-23,segunda,La Paz,275418
+2021-07-23,segunda,Oruro,60109
+2021-07-23,segunda,Pando,20049
+2021-07-23,segunda,Potosi,48518
+2021-07-23,segunda,Santa Cruz,323170
+2021-07-23,segunda,Tarija,78723
+2021-07-23,única,Beni,0
+2021-07-23,única,Chuquisaca,0
+2021-07-23,única,Cochabamba,0
+2021-07-23,única,La Paz,8125
+2021-07-23,única,Oruro,0
+2021-07-23,única,Pando,0
+2021-07-23,única,Potosi,3075
+2021-07-23,única,Santa Cruz,76753
+2021-07-23,única,Tarija,71
+2021-07-24,primera,Beni,106438
+2021-07-24,primera,Chuquisaca,168369
+2021-07-24,primera,Cochabamba,502100
+2021-07-24,primera,La Paz,659613
+2021-07-24,primera,Oruro,138543
+2021-07-24,primera,Pando,41495
+2021-07-24,primera,Potosi,134825
+2021-07-24,primera,Santa Cruz,834923
+2021-07-24,primera,Tarija,192350
+2021-07-24,segunda,Beni,38658
+2021-07-24,segunda,Chuquisaca,66437
+2021-07-24,segunda,Cochabamba,219951
+2021-07-24,segunda,La Paz,277694
+2021-07-24,segunda,Oruro,60744
+2021-07-24,segunda,Pando,20386
+2021-07-24,segunda,Potosi,49172
+2021-07-24,segunda,Santa Cruz,325875
+2021-07-24,segunda,Tarija,81223
+2021-07-24,única,Beni,0
+2021-07-24,única,Chuquisaca,0
+2021-07-24,única,Cochabamba,0
+2021-07-24,única,La Paz,11028
+2021-07-24,única,Oruro,45
+2021-07-24,única,Pando,0
+2021-07-24,única,Potosi,3659
+2021-07-24,única,Santa Cruz,80970
+2021-07-24,única,Tarija,192
+2021-07-25,primera,Beni,106491
+2021-07-25,primera,Chuquisaca,168795
+2021-07-25,primera,Cochabamba,504351
+2021-07-25,primera,La Paz,660244
+2021-07-25,primera,Oruro,138878
+2021-07-25,primera,Pando,41606
+2021-07-25,primera,Potosi,135275
+2021-07-25,primera,Santa Cruz,839038
+2021-07-25,primera,Tarija,193457
+2021-07-25,segunda,Beni,38660
+2021-07-25,segunda,Chuquisaca,67404
+2021-07-25,segunda,Cochabamba,220747
+2021-07-25,segunda,La Paz,279257
+2021-07-25,segunda,Oruro,60941
+2021-07-25,segunda,Pando,20575
+2021-07-25,segunda,Potosi,49482
+2021-07-25,segunda,Santa Cruz,331921
+2021-07-25,segunda,Tarija,82222
+2021-07-25,única,Beni,0
+2021-07-25,única,Chuquisaca,0
+2021-07-25,única,Cochabamba,0
+2021-07-25,única,La Paz,22298
+2021-07-25,única,Oruro,45
+2021-07-25,única,Pando,0
+2021-07-25,única,Potosi,3962
+2021-07-25,única,Santa Cruz,85822
+2021-07-25,única,Tarija,301
+2021-07-26,primera,Beni,107270
+2021-07-26,primera,Chuquisaca,170386
+2021-07-26,primera,Cochabamba,509555
+2021-07-26,primera,La Paz,663264
+2021-07-26,primera,Oruro,140633
+2021-07-26,primera,Pando,41790
+2021-07-26,primera,Potosi,136189
+2021-07-26,primera,Santa Cruz,846232
+2021-07-26,primera,Tarija,195416
+2021-07-26,segunda,Beni,40162
+2021-07-26,segunda,Chuquisaca,70516
+2021-07-26,segunda,Cochabamba,231201
+2021-07-26,segunda,La Paz,292748
+2021-07-26,segunda,Oruro,64021
+2021-07-26,segunda,Pando,21352
+2021-07-26,segunda,Potosi,51605
+2021-07-26,segunda,Santa Cruz,352850
+2021-07-26,segunda,Tarija,87041
+2021-07-26,única,Beni,0
+2021-07-26,única,Chuquisaca,0
+2021-07-26,única,Cochabamba,0
+2021-07-26,única,La Paz,27974
+2021-07-26,única,Oruro,45
+2021-07-26,única,Pando,0
+2021-07-26,única,Potosi,4514
+2021-07-26,única,Santa Cruz,96199
+2021-07-26,única,Tarija,593
+2021-07-27,primera,Beni,108223
+2021-07-27,primera,Chuquisaca,172184
+2021-07-27,primera,Cochabamba,515075
+2021-07-27,primera,La Paz,666052
+2021-07-27,primera,Oruro,141992
+2021-07-27,primera,Pando,42042
+2021-07-27,primera,Potosi,137412
+2021-07-27,primera,Santa Cruz,853930
+2021-07-27,primera,Tarija,197826
+2021-07-27,segunda,Beni,41823
+2021-07-27,segunda,Chuquisaca,73460
+2021-07-27,segunda,Cochabamba,240643
+2021-07-27,segunda,La Paz,306621
+2021-07-27,segunda,Oruro,66722
+2021-07-27,segunda,Pando,22102
+2021-07-27,segunda,Potosi,54322
+2021-07-27,segunda,Santa Cruz,376533
+2021-07-27,segunda,Tarija,92141
+2021-07-27,única,Beni,0
+2021-07-27,única,Chuquisaca,0
+2021-07-27,única,Cochabamba,73
+2021-07-27,única,La Paz,35893
+2021-07-27,única,Oruro,71
+2021-07-27,única,Pando,0
+2021-07-27,única,Potosi,5569
+2021-07-27,única,Santa Cruz,108389
+2021-07-27,única,Tarija,1189
+2021-07-28,primera,Beni,108834
+2021-07-28,primera,Chuquisaca,173399
+2021-07-28,primera,Cochabamba,517764
+2021-07-28,primera,La Paz,667566
+2021-07-28,primera,Oruro,143015
+2021-07-28,primera,Pando,42142
+2021-07-28,primera,Potosi,137817
+2021-07-28,primera,Santa Cruz,861467
+2021-07-28,primera,Tarija,199327
+2021-07-28,segunda,Beni,42393
+2021-07-28,segunda,Chuquisaca,76120
+2021-07-28,segunda,Cochabamba,249307
+2021-07-28,segunda,La Paz,317751
+2021-07-28,segunda,Oruro,68459
+2021-07-28,segunda,Pando,22391
+2021-07-28,segunda,Potosi,55919
+2021-07-28,segunda,Santa Cruz,399253
+2021-07-28,segunda,Tarija,96903
+2021-07-28,única,Beni,0
+2021-07-28,única,Chuquisaca,0
+2021-07-28,única,Cochabamba,5562
+2021-07-28,única,La Paz,43950
+2021-07-28,única,Oruro,340
+2021-07-28,única,Pando,0
+2021-07-28,única,Potosi,6238
+2021-07-28,única,Santa Cruz,116412
+2021-07-28,única,Tarija,1698
+2021-07-29,primera,Beni,109305
+2021-07-29,primera,Chuquisaca,174125
+2021-07-29,primera,Cochabamba,519941
+2021-07-29,primera,La Paz,668458
+2021-07-29,primera,Oruro,143772
+2021-07-29,primera,Pando,42204
+2021-07-29,primera,Potosi,138068
+2021-07-29,primera,Santa Cruz,866725
+2021-07-29,primera,Tarija,200698
+2021-07-29,segunda,Beni,42760
+2021-07-29,segunda,Chuquisaca,77845
+2021-07-29,segunda,Cochabamba,256995
+2021-07-29,segunda,La Paz,326637
+2021-07-29,segunda,Oruro,69589
+2021-07-29,segunda,Pando,22550
+2021-07-29,segunda,Potosi,56923
+2021-07-29,segunda,Santa Cruz,411563
+2021-07-29,segunda,Tarija,100342
+2021-07-29,única,Beni,0
+2021-07-29,única,Chuquisaca,0
+2021-07-29,única,Cochabamba,14207
+2021-07-29,única,La Paz,50457
+2021-07-29,única,Oruro,454
+2021-07-29,única,Pando,0
+2021-07-29,única,Potosi,6729
+2021-07-29,única,Santa Cruz,124435
+2021-07-29,única,Tarija,2172
+2021-07-30,primera,Beni,109890
+2021-07-30,primera,Chuquisaca,174918
+2021-07-30,primera,Cochabamba,521181
+2021-07-30,primera,La Paz,669268
+2021-07-30,primera,Oruro,144518
+2021-07-30,primera,Pando,42270
+2021-07-30,primera,Potosi,138351
+2021-07-30,primera,Santa Cruz,872172
+2021-07-30,primera,Tarija,201716
+2021-07-30,segunda,Beni,43059
+2021-07-30,segunda,Chuquisaca,80008
+2021-07-30,segunda,Cochabamba,261210
+2021-07-30,segunda,La Paz,336141
+2021-07-30,segunda,Oruro,70789
+2021-07-30,segunda,Pando,22695
+2021-07-30,segunda,Potosi,58447
+2021-07-30,segunda,Santa Cruz,417960
+2021-07-30,segunda,Tarija,103209
+2021-07-30,única,Beni,0
+2021-07-30,única,Chuquisaca,0
+2021-07-30,única,Cochabamba,23795
+2021-07-30,única,La Paz,56461
+2021-07-30,única,Oruro,516
+2021-07-30,única,Pando,0
+2021-07-30,única,Potosi,7875
+2021-07-30,única,Santa Cruz,128985
+2021-07-30,única,Tarija,2460
+2021-07-31,primera,Beni,109901
+2021-07-31,primera,Chuquisaca,175238
+2021-07-31,primera,Cochabamba,521497
+2021-07-31,primera,La Paz,669530
+2021-07-31,primera,Oruro,144878
+2021-07-31,primera,Pando,42273
+2021-07-31,primera,Potosi,138440
+2021-07-31,primera,Santa Cruz,874033
+2021-07-31,primera,Tarija,202275
+2021-07-31,segunda,Beni,43086
+2021-07-31,segunda,Chuquisaca,80703
+2021-07-31,segunda,Cochabamba,261778
+2021-07-31,segunda,La Paz,337888
+2021-07-31,segunda,Oruro,71189
+2021-07-31,segunda,Pando,22697
+2021-07-31,segunda,Potosi,59006
+2021-07-31,segunda,Santa Cruz,418638
+2021-07-31,segunda,Tarija,103986
+2021-07-31,única,Beni,0
+2021-07-31,única,Chuquisaca,0
+2021-07-31,única,Cochabamba,26798
+2021-07-31,única,La Paz,59145
+2021-07-31,única,Oruro,536
+2021-07-31,única,Pando,0
+2021-07-31,única,Potosi,8518
+2021-07-31,única,Santa Cruz,130714
+2021-07-31,única,Tarija,2712
+2021-08-01,primera,Beni,109901
+2021-08-01,primera,Chuquisaca,175385
+2021-08-01,primera,Cochabamba,521659
+2021-08-01,primera,La Paz,669776
+2021-08-01,primera,Oruro,144885
+2021-08-01,primera,Pando,42273
+2021-08-01,primera,Potosi,138461
+2021-08-01,primera,Santa Cruz,876403
+2021-08-01,primera,Tarija,202696
+2021-08-01,segunda,Beni,43087
+2021-08-01,segunda,Chuquisaca,81103
+2021-08-01,segunda,Cochabamba,262006
+2021-08-01,segunda,La Paz,338771
+2021-08-01,segunda,Oruro,71210
+2021-08-01,segunda,Pando,22697
+2021-08-01,segunda,Potosi,59087
+2021-08-01,segunda,Santa Cruz,419816
+2021-08-01,segunda,Tarija,104276
+2021-08-01,única,Beni,0
+2021-08-01,única,Chuquisaca,0
+2021-08-01,única,Cochabamba,31408
+2021-08-01,única,La Paz,64789
+2021-08-01,única,Oruro,542
+2021-08-01,única,Pando,0
+2021-08-01,única,Potosi,8557
+2021-08-01,única,Santa Cruz,134518
+2021-08-01,única,Tarija,2871
+2021-08-02,primera,Beni,110359
+2021-08-02,primera,Chuquisaca,176420
+2021-08-02,primera,Cochabamba,522926
+2021-08-02,primera,La Paz,670359
+2021-08-02,primera,Oruro,145965
+2021-08-02,primera,Pando,42341
+2021-08-02,primera,Potosi,138684
+2021-08-02,primera,Santa Cruz,882740
+2021-08-02,primera,Tarija,203886
+2021-08-02,segunda,Beni,43354
+2021-08-02,segunda,Chuquisaca,82703
+2021-08-02,segunda,Cochabamba,264237
+2021-08-02,segunda,La Paz,347640
+2021-08-02,segunda,Oruro,72712
+2021-08-02,segunda,Pando,22827
+2021-08-02,segunda,Potosi,59854
+2021-08-02,segunda,Santa Cruz,424188
+2021-08-02,segunda,Tarija,107188
+2021-08-02,única,Beni,2
+2021-08-02,única,Chuquisaca,20
+2021-08-02,única,Cochabamba,40856
+2021-08-02,única,La Paz,71238
+2021-08-02,única,Oruro,609
+2021-08-02,única,Pando,0
+2021-08-02,única,Potosi,9133
+2021-08-02,única,Santa Cruz,141746
+2021-08-02,única,Tarija,3589
+2021-08-03,primera,Beni,110811
+2021-08-03,primera,Chuquisaca,177056
+2021-08-03,primera,Cochabamba,524973
+2021-08-03,primera,La Paz,671557
+2021-08-03,primera,Oruro,146708
+2021-08-03,primera,Pando,42389
+2021-08-03,primera,Potosi,138858
+2021-08-03,primera,Santa Cruz,886711
+2021-08-03,primera,Tarija,204862
+2021-08-03,segunda,Beni,43496
+2021-08-03,segunda,Chuquisaca,83726
+2021-08-03,segunda,Cochabamba,265813
+2021-08-03,segunda,La Paz,353217
+2021-08-03,segunda,Oruro,73736
+2021-08-03,segunda,Pando,22960
+2021-08-03,segunda,Potosi,60679
+2021-08-03,segunda,Santa Cruz,427113
+2021-08-03,segunda,Tarija,109709
+2021-08-03,única,Beni,2
+2021-08-03,única,Chuquisaca,22
+2021-08-03,única,Cochabamba,46635
+2021-08-03,única,La Paz,76082
+2021-08-03,única,Oruro,709
+2021-08-03,única,Pando,0
+2021-08-03,única,Potosi,9665
+2021-08-03,única,Santa Cruz,148900
+2021-08-03,única,Tarija,4590
+2021-08-05,primera,Beni,111581
+2021-08-05,primera,Chuquisaca,177860
+2021-08-05,primera,Cochabamba,529307
+2021-08-05,primera,La Paz,674653
+2021-08-05,primera,Oruro,148077
+2021-08-05,primera,Pando,42496
+2021-08-05,primera,Potosi,139141
+2021-08-05,primera,Santa Cruz,894290
+2021-08-05,primera,Tarija,206424
+2021-08-05,segunda,Beni,43740
+2021-08-05,segunda,Chuquisaca,85434
+2021-08-05,segunda,Cochabamba,268714
+2021-08-05,segunda,La Paz,360215
+2021-08-05,segunda,Oruro,75502
+2021-08-05,segunda,Pando,23131
+2021-08-05,segunda,Potosi,62158
+2021-08-05,segunda,Santa Cruz,430667
+2021-08-05,segunda,Tarija,114273
+2021-08-05,única,Beni,12
+2021-08-05,única,Chuquisaca,2663
+2021-08-05,única,Cochabamba,57212
+2021-08-05,única,La Paz,84465
+2021-08-05,única,Oruro,1221
+2021-08-05,única,Pando,0
+2021-08-05,única,Potosi,10638
+2021-08-05,única,Santa Cruz,159418
+2021-08-05,única,Tarija,6891
+2021-08-06,primera,Beni,111585
+2021-08-06,primera,Chuquisaca,177898
+2021-08-06,primera,Cochabamba,529361
+2021-08-06,primera,La Paz,674669
+2021-08-06,primera,Oruro,148107
+2021-08-06,primera,Pando,42496
+2021-08-06,primera,Potosi,139152
+2021-08-06,primera,Santa Cruz,894309
+2021-08-06,primera,Tarija,206822
+2021-08-06,segunda,Beni,43743
+2021-08-06,segunda,Chuquisaca,85839
+2021-08-06,segunda,Cochabamba,268894
+2021-08-06,segunda,La Paz,360293
+2021-08-06,segunda,Oruro,75568
+2021-08-06,segunda,Pando,23131
+2021-08-06,segunda,Potosi,62206
+2021-08-06,segunda,Santa Cruz,430752
+2021-08-06,segunda,Tarija,114579
+2021-08-06,única,Beni,12
+2021-08-06,única,Chuquisaca,3450
+2021-08-06,única,Cochabamba,57341
+2021-08-06,única,La Paz,85115
+2021-08-06,única,Oruro,1257
+2021-08-06,única,Pando,0
+2021-08-06,única,Potosi,10701
+2021-08-06,única,Santa Cruz,159528
+2021-08-06,única,Tarija,7325
+2021-08-07,primera,Beni,111593
+2021-08-07,primera,Chuquisaca,177951
+2021-08-07,primera,Cochabamba,530102
+2021-08-07,primera,La Paz,675142
+2021-08-07,primera,Oruro,148177
+2021-08-07,primera,Pando,42496
+2021-08-07,primera,Potosi,139204
+2021-08-07,primera,Santa Cruz,894582
+2021-08-07,primera,Tarija,207024
+2021-08-07,segunda,Beni,43754
+2021-08-07,segunda,Chuquisaca,86263
+2021-08-07,segunda,Cochabamba,269226
+2021-08-07,segunda,La Paz,360668
+2021-08-07,segunda,Oruro,75737
+2021-08-07,segunda,Pando,23131
+2021-08-07,segunda,Potosi,62339
+2021-08-07,segunda,Santa Cruz,430895
+2021-08-07,segunda,Tarija,115122
+2021-08-07,única,Beni,12
+2021-08-07,única,Chuquisaca,4508
+2021-08-07,única,Cochabamba,58118
+2021-08-07,única,La Paz,86168
+2021-08-07,única,Oruro,1306
+2021-08-07,única,Pando,0
+2021-08-07,única,Potosi,10794
+2021-08-07,única,Santa Cruz,161749
+2021-08-07,única,Tarija,8034
+2021-08-08,primera,Beni,111593
+2021-08-08,primera,Chuquisaca,178004
+2021-08-08,primera,Cochabamba,530825
+2021-08-08,primera,La Paz,675883
+2021-08-08,primera,Oruro,148181
+2021-08-08,primera,Pando,42497
+2021-08-08,primera,Potosi,139249
+2021-08-08,primera,Santa Cruz,895794
+2021-08-08,primera,Tarija,207034
+2021-08-08,segunda,Beni,43754
+2021-08-08,segunda,Chuquisaca,86470
+2021-08-08,segunda,Cochabamba,269603
+2021-08-08,segunda,La Paz,360959
+2021-08-08,segunda,Oruro,75767
+2021-08-08,segunda,Pando,23136
+2021-08-08,segunda,Potosi,62449
+2021-08-08,segunda,Santa Cruz,431181
+2021-08-08,segunda,Tarija,115399
+2021-08-08,única,Beni,12
+2021-08-08,única,Chuquisaca,4993
+2021-08-08,única,Cochabamba,60089
+2021-08-08,única,La Paz,87277
+2021-08-08,única,Oruro,1361
+2021-08-08,única,Pando,0
+2021-08-08,única,Potosi,10918
+2021-08-08,única,Santa Cruz,164478
+2021-08-08,única,Tarija,8585
+2021-08-09,primera,Beni,111944
+2021-08-09,primera,Chuquisaca,178396
+2021-08-09,primera,Cochabamba,532834
+2021-08-09,primera,La Paz,678088
+2021-08-09,primera,Oruro,148961
+2021-08-09,primera,Pando,42538
+2021-08-09,primera,Potosi,139456
+2021-08-09,primera,Santa Cruz,899791
+2021-08-09,primera,Tarija,207869
+2021-08-09,segunda,Beni,44012
+2021-08-09,segunda,Chuquisaca,87940
+2021-08-09,segunda,Cochabamba,271454
+2021-08-09,segunda,La Paz,363334
+2021-08-09,segunda,Oruro,77662
+2021-08-09,segunda,Pando,23216
+2021-08-09,segunda,Potosi,63542
+2021-08-09,segunda,Santa Cruz,432807
+2021-08-09,segunda,Tarija,119014
+2021-08-09,única,Beni,18
+2021-08-09,única,Chuquisaca,6385
+2021-08-09,única,Cochabamba,66188
+2021-08-09,única,La Paz,91055
+2021-08-09,única,Oruro,1827
+2021-08-09,única,Pando,0
+2021-08-09,única,Potosi,11567
+2021-08-09,única,Santa Cruz,169977
+2021-08-09,única,Tarija,9669
+2021-08-10,primera,Beni,112302
+2021-08-10,primera,Chuquisaca,178804
+2021-08-10,primera,Cochabamba,534516
+2021-08-10,primera,La Paz,680085
+2021-08-10,primera,Oruro,149576
+2021-08-10,primera,Pando,42588
+2021-08-10,primera,Potosi,139724
+2021-08-10,primera,Santa Cruz,903022
+2021-08-10,primera,Tarija,208539
+2021-08-10,segunda,Beni,44781
+2021-08-10,segunda,Chuquisaca,89198
+2021-08-10,segunda,Cochabamba,275445
+2021-08-10,segunda,La Paz,367791
+2021-08-10,segunda,Oruro,79121
+2021-08-10,segunda,Pando,23293
+2021-08-10,segunda,Potosi,64470
+2021-08-10,segunda,Santa Cruz,437024
+2021-08-10,segunda,Tarija,121165
+2021-08-10,única,Beni,36
+2021-08-10,única,Chuquisaca,7497
+2021-08-10,única,Cochabamba,71188
+2021-08-10,única,La Paz,93863
+2021-08-10,única,Oruro,2814
+2021-08-10,única,Pando,0
+2021-08-10,única,Potosi,12222
+2021-08-10,única,Santa Cruz,175073
+2021-08-10,única,Tarija,10664
+2021-08-11,primera,Beni,112546
+2021-08-11,primera,Chuquisaca,179082
+2021-08-11,primera,Cochabamba,535916
+2021-08-11,primera,La Paz,681832
+2021-08-11,primera,Oruro,150048
+2021-08-11,primera,Pando,42626
+2021-08-11,primera,Potosi,139983
+2021-08-11,primera,Santa Cruz,906187
+2021-08-11,primera,Tarija,208974
+2021-08-11,segunda,Beni,45572
+2021-08-11,segunda,Chuquisaca,92986
+2021-08-11,segunda,Cochabamba,283962
+2021-08-11,segunda,La Paz,374227
+2021-08-11,segunda,Oruro,82312
+2021-08-11,segunda,Pando,23378
+2021-08-11,segunda,Potosi,65268
+2021-08-11,segunda,Santa Cruz,441899
+2021-08-11,segunda,Tarija,123850
+2021-08-11,única,Beni,51
+2021-08-11,única,Chuquisaca,8267
+2021-08-11,única,Cochabamba,75565
+2021-08-11,única,La Paz,96936
+2021-08-11,única,Oruro,3791
+2021-08-11,única,Pando,0
+2021-08-11,única,Potosi,12934
+2021-08-11,única,Santa Cruz,178969
+2021-08-11,única,Tarija,11938
+2021-08-12,primera,Beni,112822
+2021-08-12,primera,Chuquisaca,179302
+2021-08-12,primera,Cochabamba,537226
+2021-08-12,primera,La Paz,683848
+2021-08-12,primera,Oruro,150595
+2021-08-12,primera,Pando,42677
+2021-08-12,primera,Potosi,140228
+2021-08-12,primera,Santa Cruz,909443
+2021-08-12,primera,Tarija,209293
+2021-08-12,segunda,Beni,46251
+2021-08-12,segunda,Chuquisaca,95942
+2021-08-12,segunda,Cochabamba,295838
+2021-08-12,segunda,La Paz,380782
+2021-08-12,segunda,Oruro,83670
+2021-08-12,segunda,Pando,23946
+2021-08-12,segunda,Potosi,66308
+2021-08-12,segunda,Santa Cruz,449755
+2021-08-12,segunda,Tarija,125849
+2021-08-12,única,Beni,120
+2021-08-12,única,Chuquisaca,9134
+2021-08-12,única,Cochabamba,79790
+2021-08-12,única,La Paz,99983
+2021-08-12,única,Oruro,5146
+2021-08-12,única,Pando,0
+2021-08-12,única,Potosi,13825
+2021-08-12,única,Santa Cruz,186744
+2021-08-12,única,Tarija,13522
+2021-08-13,primera,Beni,113231
+2021-08-13,primera,Chuquisaca,179691
+2021-08-13,primera,Cochabamba,539003
+2021-08-13,primera,La Paz,686379
+2021-08-13,primera,Oruro,151182
+2021-08-13,primera,Pando,42749
+2021-08-13,primera,Potosi,140632
+2021-08-13,primera,Santa Cruz,915134
+2021-08-13,primera,Tarija,209800
+2021-08-13,segunda,Beni,46632
+2021-08-13,segunda,Chuquisaca,98143
+2021-08-13,segunda,Cochabamba,303043
+2021-08-13,segunda,La Paz,386999
+2021-08-13,segunda,Oruro,85056
+2021-08-13,segunda,Pando,24404
+2021-08-13,segunda,Potosi,67966
+2021-08-13,segunda,Santa Cruz,457135
+2021-08-13,segunda,Tarija,128755
+2021-08-13,única,Beni,195
+2021-08-13,única,Chuquisaca,10719
+2021-08-13,única,Cochabamba,84223
+2021-08-13,única,La Paz,104435
+2021-08-13,única,Oruro,6939
+2021-08-13,única,Pando,0
+2021-08-13,única,Potosi,14516
+2021-08-13,única,Santa Cruz,193307
+2021-08-13,única,Tarija,14669
+2021-08-14,primera,Beni,113243
+2021-08-14,primera,Chuquisaca,179794
+2021-08-14,primera,Cochabamba,539339
+2021-08-14,primera,La Paz,689058
+2021-08-14,primera,Oruro,151394
+2021-08-14,primera,Pando,42749
+2021-08-14,primera,Potosi,140688
+2021-08-14,primera,Santa Cruz,916678
+2021-08-14,primera,Tarija,209855
+2021-08-14,segunda,Beni,46682
+2021-08-14,segunda,Chuquisaca,98628
+2021-08-14,segunda,Cochabamba,304175
+2021-08-14,segunda,La Paz,387598
+2021-08-14,segunda,Oruro,85290
+2021-08-14,segunda,Pando,24404
+2021-08-14,segunda,Potosi,68635
+2021-08-14,segunda,Santa Cruz,457234
+2021-08-14,segunda,Tarija,129046
+2021-08-14,única,Beni,195
+2021-08-14,única,Chuquisaca,11354
+2021-08-14,única,Cochabamba,85339
+2021-08-14,única,La Paz,106026
+2021-08-14,única,Oruro,7471
+2021-08-14,única,Pando,0
+2021-08-14,única,Potosi,14903
+2021-08-14,única,Santa Cruz,196346
+2021-08-14,única,Tarija,14757
+2021-08-15,primera,Beni,113244
+2021-08-15,primera,Chuquisaca,179845
+2021-08-15,primera,Cochabamba,539968
+2021-08-15,primera,La Paz,691966
+2021-08-15,primera,Oruro,151400
+2021-08-15,primera,Pando,42749
+2021-08-15,primera,Potosi,140747
+2021-08-15,primera,Santa Cruz,919661
+2021-08-15,primera,Tarija,209891
+2021-08-15,segunda,Beni,46682
+2021-08-15,segunda,Chuquisaca,98814
+2021-08-15,segunda,Cochabamba,305085
+2021-08-15,segunda,La Paz,387712
+2021-08-15,segunda,Oruro,85323
+2021-08-15,segunda,Pando,24405
+2021-08-15,segunda,Potosi,68732
+2021-08-15,segunda,Santa Cruz,457569
+2021-08-15,segunda,Tarija,129093
+2021-08-15,única,Beni,195
+2021-08-15,única,Chuquisaca,11744
+2021-08-15,única,Cochabamba,86637
+2021-08-15,única,La Paz,107023
+2021-08-15,única,Oruro,8184
+2021-08-15,única,Pando,0
+2021-08-15,única,Potosi,16039
+2021-08-15,única,Santa Cruz,198419
+2021-08-15,única,Tarija,14906
+2021-08-16,primera,Beni,113663
+2021-08-16,primera,Chuquisaca,180159
+2021-08-16,primera,Cochabamba,541529
+2021-08-16,primera,La Paz,694863
+2021-08-16,primera,Oruro,152004
+2021-08-16,primera,Pando,42804
+2021-08-16,primera,Potosi,141235
+2021-08-16,primera,Santa Cruz,924216
+2021-08-16,primera,Tarija,210508
+2021-08-16,segunda,Beni,47311
+2021-08-16,segunda,Chuquisaca,100819
+2021-08-16,segunda,Cochabamba,318669
+2021-08-16,segunda,La Paz,392647
+2021-08-16,segunda,Oruro,86620
+2021-08-16,segunda,Pando,24721
+2021-08-16,segunda,Potosi,69592
+2021-08-16,segunda,Santa Cruz,461304
+2021-08-16,segunda,Tarija,131095
+2021-08-16,única,Beni,277
+2021-08-16,única,Chuquisaca,13130
+2021-08-16,única,Cochabamba,90102
+2021-08-16,única,La Paz,110519
+2021-08-16,única,Oruro,9609
+2021-08-16,única,Pando,0
+2021-08-16,única,Potosi,16912
+2021-08-16,única,Santa Cruz,206033
+2021-08-16,única,Tarija,15965
+2021-08-17,primera,Beni,114106
+2021-08-17,primera,Chuquisaca,180453
+2021-08-17,primera,Cochabamba,543251
+2021-08-17,primera,La Paz,697689
+2021-08-17,primera,Oruro,152630
+2021-08-17,primera,Pando,42845
+2021-08-17,primera,Potosi,141663
+2021-08-17,primera,Santa Cruz,928765
+2021-08-17,primera,Tarija,211035
+2021-08-17,segunda,Beni,48208
+2021-08-17,segunda,Chuquisaca,103665
+2021-08-17,segunda,Cochabamba,329307
+2021-08-17,segunda,La Paz,398212
+2021-08-17,segunda,Oruro,88357
+2021-08-17,segunda,Pando,25014
+2021-08-17,segunda,Potosi,70466
+2021-08-17,segunda,Santa Cruz,466680
+2021-08-17,segunda,Tarija,132602
+2021-08-17,única,Beni,406
+2021-08-17,única,Chuquisaca,14245
+2021-08-17,única,Cochabamba,93245
+2021-08-17,única,La Paz,114134
+2021-08-17,única,Oruro,10820
+2021-08-17,única,Pando,0
+2021-08-17,única,Potosi,17938
+2021-08-17,única,Santa Cruz,211584
+2021-08-17,única,Tarija,16933
+2021-08-18,primera,Beni,114680
+2021-08-18,primera,Chuquisaca,180744
+2021-08-18,primera,Cochabamba,545314
+2021-08-18,primera,La Paz,700527
+2021-08-18,primera,Oruro,153406
+2021-08-18,primera,Pando,42951
+2021-08-18,primera,Potosi,142039
+2021-08-18,primera,Santa Cruz,932437
+2021-08-18,primera,Tarija,211546
+2021-08-18,segunda,Beni,50122
+2021-08-18,segunda,Chuquisaca,106409
+2021-08-18,segunda,Cochabamba,335237
+2021-08-18,segunda,La Paz,403595
+2021-08-18,segunda,Oruro,92713
+2021-08-18,segunda,Pando,25420
+2021-08-18,segunda,Potosi,71467
+2021-08-18,segunda,Santa Cruz,475918
+2021-08-18,segunda,Tarija,134701
+2021-08-18,única,Beni,568
+2021-08-18,única,Chuquisaca,15233
+2021-08-18,única,Cochabamba,96014
+2021-08-18,única,La Paz,117912
+2021-08-18,única,Oruro,12202
+2021-08-18,única,Pando,0
+2021-08-18,única,Potosi,19043
+2021-08-18,única,Santa Cruz,217867
+2021-08-18,única,Tarija,17739
+2021-08-19,primera,Beni,115140
+2021-08-19,primera,Chuquisaca,181015
+2021-08-19,primera,Cochabamba,547501
+2021-08-19,primera,La Paz,702717
+2021-08-19,primera,Oruro,154144
+2021-08-19,primera,Pando,43000
+2021-08-19,primera,Potosi,142509
+2021-08-19,primera,Santa Cruz,935481
+2021-08-19,primera,Tarija,212009
+2021-08-19,segunda,Beni,51148
+2021-08-19,segunda,Chuquisaca,108592
+2021-08-19,segunda,Cochabamba,338772
+2021-08-19,segunda,La Paz,409051
+2021-08-19,segunda,Oruro,95532
+2021-08-19,segunda,Pando,25622
+2021-08-19,segunda,Potosi,72672
+2021-08-19,segunda,Santa Cruz,485410
+2021-08-19,segunda,Tarija,137019
+2021-08-19,única,Beni,646
+2021-08-19,única,Chuquisaca,16027
+2021-08-19,única,Cochabamba,98478
+2021-08-19,única,La Paz,121062
+2021-08-19,única,Oruro,13482
+2021-08-19,única,Pando,0
+2021-08-19,única,Potosi,20736
+2021-08-19,única,Santa Cruz,224140
+2021-08-19,única,Tarija,18558
+2021-08-20,primera,Beni,115572
+2021-08-20,primera,Chuquisaca,181274
+2021-08-20,primera,Cochabamba,549761
+2021-08-20,primera,La Paz,705525
+2021-08-20,primera,Oruro,154751
+2021-08-20,primera,Pando,43081
+2021-08-20,primera,Potosi,142916
+2021-08-20,primera,Santa Cruz,938683
+2021-08-20,primera,Tarija,212448
+2021-08-20,segunda,Beni,52895
+2021-08-20,segunda,Chuquisaca,110328
+2021-08-20,segunda,Cochabamba,341185
+2021-08-20,segunda,La Paz,413685
+2021-08-20,segunda,Oruro,97535
+2021-08-20,segunda,Pando,25817
+2021-08-20,segunda,Potosi,73387
+2021-08-20,segunda,Santa Cruz,494514
+2021-08-20,segunda,Tarija,138399
+2021-08-20,única,Beni,827
+2021-08-20,única,Chuquisaca,16891
+2021-08-20,única,Cochabamba,101138
+2021-08-20,única,La Paz,124146
+2021-08-20,única,Oruro,14481
+2021-08-20,única,Pando,0
+2021-08-20,única,Potosi,21976
+2021-08-20,única,Santa Cruz,229154
+2021-08-20,única,Tarija,19342
+2021-08-21,primera,Beni,115583
+2021-08-21,primera,Chuquisaca,181349
+2021-08-21,primera,Cochabamba,550262
+2021-08-21,primera,La Paz,707010
+2021-08-21,primera,Oruro,154881
+2021-08-21,primera,Pando,43101
+2021-08-21,primera,Potosi,143187
+2021-08-21,primera,Santa Cruz,939751
+2021-08-21,primera,Tarija,212504
+2021-08-21,segunda,Beni,52921
+2021-08-21,segunda,Chuquisaca,110873
+2021-08-21,segunda,Cochabamba,341584
+2021-08-21,segunda,La Paz,414384
+2021-08-21,segunda,Oruro,97704
+2021-08-21,segunda,Pando,25850
+2021-08-21,segunda,Potosi,73500
+2021-08-21,segunda,Santa Cruz,495854
+2021-08-21,segunda,Tarija,138580
+2021-08-21,única,Beni,832
+2021-08-21,única,Chuquisaca,17450
+2021-08-21,única,Cochabamba,101792
+2021-08-21,única,La Paz,125214
+2021-08-21,única,Oruro,14756
+2021-08-21,única,Pando,0
+2021-08-21,única,Potosi,22204
+2021-08-21,única,Santa Cruz,229917
+2021-08-21,única,Tarija,19582
+2021-08-22,primera,Beni,115592
+2021-08-22,primera,Chuquisaca,181401
+2021-08-22,primera,Cochabamba,551146
+2021-08-22,primera,La Paz,708566
+2021-08-22,primera,Oruro,154887
+2021-08-22,primera,Pando,43102
+2021-08-22,primera,Potosi,143322
+2021-08-22,primera,Santa Cruz,941024
+2021-08-22,primera,Tarija,212514
+2021-08-22,segunda,Beni,52956
+2021-08-22,segunda,Chuquisaca,110990
+2021-08-22,segunda,Cochabamba,341854
+2021-08-22,segunda,La Paz,414590
+2021-08-22,segunda,Oruro,97728
+2021-08-22,segunda,Pando,25852
+2021-08-22,segunda,Potosi,73605
+2021-08-22,segunda,Santa Cruz,496720
+2021-08-22,segunda,Tarija,138607
+2021-08-22,única,Beni,832
+2021-08-22,única,Chuquisaca,17678
+2021-08-22,única,Cochabamba,102753
+2021-08-22,única,La Paz,125747
+2021-08-22,única,Oruro,15095
+2021-08-22,única,Pando,0
+2021-08-22,única,Potosi,22562
+2021-08-22,única,Santa Cruz,232233
+2021-08-22,única,Tarija,19587
+2021-08-23,primera,Beni,115995
+2021-08-23,primera,Chuquisaca,181630
+2021-08-23,primera,Cochabamba,553116
+2021-08-23,primera,La Paz,710951
+2021-08-23,primera,Oruro,155518
+2021-08-23,primera,Pando,43166
+2021-08-23,primera,Potosi,143743
+2021-08-23,primera,Santa Cruz,944214
+2021-08-23,primera,Tarija,213071
+2021-08-23,segunda,Beni,54566
+2021-08-23,segunda,Chuquisaca,112906
+2021-08-23,segunda,Cochabamba,344259
+2021-08-23,segunda,La Paz,420822
+2021-08-23,segunda,Oruro,99159
+2021-08-23,segunda,Pando,25994
+2021-08-23,segunda,Potosi,74858
+2021-08-23,segunda,Santa Cruz,505757
+2021-08-23,segunda,Tarija,140696
+2021-08-23,única,Beni,1035
+2021-08-23,única,Chuquisaca,18598
+2021-08-23,única,Cochabamba,105182
+2021-08-23,única,La Paz,128020
+2021-08-23,única,Oruro,15737
+2021-08-23,única,Pando,0
+2021-08-23,única,Potosi,23359
+2021-08-23,única,Santa Cruz,237018
+2021-08-23,única,Tarija,20262
+2021-08-24,primera,Beni,116728
+2021-08-24,primera,Chuquisaca,182091
+2021-08-24,primera,Cochabamba,557033
+2021-08-24,primera,La Paz,715041
+2021-08-24,primera,Oruro,156794
+2021-08-24,primera,Pando,43289
+2021-08-24,primera,Potosi,144517
+2021-08-24,primera,Santa Cruz,949602
+2021-08-24,primera,Tarija,213907
+2021-08-24,segunda,Beni,56831
+2021-08-24,segunda,Chuquisaca,116428
+2021-08-24,segunda,Cochabamba,349972
+2021-08-24,segunda,La Paz,431832
+2021-08-24,segunda,Oruro,102846
+2021-08-24,segunda,Pando,26327
+2021-08-24,segunda,Potosi,77189
+2021-08-24,segunda,Santa Cruz,520366
+2021-08-24,segunda,Tarija,144985
+2021-08-24,única,Beni,1299
+2021-08-24,única,Chuquisaca,19932
+2021-08-24,única,Cochabamba,109660
+2021-08-24,única,La Paz,132918
+2021-08-24,única,Oruro,17430
+2021-08-24,única,Pando,0
+2021-08-24,única,Potosi,25496
+2021-08-24,única,Santa Cruz,246848
+2021-08-24,única,Tarija,21408
+2021-08-25,primera,Beni,117402
+2021-08-25,primera,Chuquisaca,182492
+2021-08-25,primera,Cochabamba,560242
+2021-08-25,primera,La Paz,718753
+2021-08-25,primera,Oruro,157792
+2021-08-25,primera,Pando,43393
+2021-08-25,primera,Potosi,145061
+2021-08-25,primera,Santa Cruz,954638
+2021-08-25,primera,Tarija,214654
+2021-08-25,segunda,Beni,58691
+2021-08-25,segunda,Chuquisaca,120397
+2021-08-25,segunda,Cochabamba,364221
+2021-08-25,segunda,La Paz,443325
+2021-08-25,segunda,Oruro,104691
+2021-08-25,segunda,Pando,27002
+2021-08-25,segunda,Potosi,79028
+2021-08-25,segunda,Santa Cruz,531886
+2021-08-25,segunda,Tarija,148309
+2021-08-25,única,Beni,1498
+2021-08-25,única,Chuquisaca,21374
+2021-08-25,única,Cochabamba,115936
+2021-08-25,única,La Paz,138149
+2021-08-25,única,Oruro,19020
+2021-08-25,única,Pando,0
+2021-08-25,única,Potosi,26677
+2021-08-25,única,Santa Cruz,256963
+2021-08-25,única,Tarija,23333
+2021-08-26,primera,Beni,118636
+2021-08-26,primera,Chuquisaca,184609
+2021-08-26,primera,Cochabamba,570579
+2021-08-26,primera,La Paz,731838
+2021-08-26,primera,Oruro,160137
+2021-08-26,primera,Pando,43519
+2021-08-26,primera,Potosi,146444
+2021-08-26,primera,Santa Cruz,977697
+2021-08-26,primera,Tarija,218374
+2021-08-26,segunda,Beni,60327
+2021-08-26,segunda,Chuquisaca,121959
+2021-08-26,segunda,Cochabamba,368590
+2021-08-26,segunda,La Paz,451863
+2021-08-26,segunda,Oruro,106157
+2021-08-26,segunda,Pando,27566
+2021-08-26,segunda,Potosi,82877
+2021-08-26,segunda,Santa Cruz,535728
+2021-08-26,segunda,Tarija,150386
+2021-08-26,única,Beni,1639
+2021-08-26,única,Chuquisaca,23019
+2021-08-26,única,Cochabamba,118318
+2021-08-26,única,La Paz,140839
+2021-08-26,única,Oruro,19351
+2021-08-26,única,Pando,0
+2021-08-26,única,Potosi,27022
+2021-08-26,única,Santa Cruz,262904
+2021-08-26,única,Tarija,24399
+2021-08-27,primera,Beni,119397
+2021-08-27,primera,Chuquisaca,185239
+2021-08-27,primera,Cochabamba,574389
+2021-08-27,primera,La Paz,736367
+2021-08-27,primera,Oruro,161156
+2021-08-27,primera,Pando,43629
+2021-08-27,primera,Potosi,147268
+2021-08-27,primera,Santa Cruz,985890
+2021-08-27,primera,Tarija,219286
+2021-08-27,segunda,Beni,61703
+2021-08-27,segunda,Chuquisaca,124693
+2021-08-27,segunda,Cochabamba,368808
+2021-08-27,segunda,La Paz,462658
+2021-08-27,segunda,Oruro,107697
+2021-08-27,segunda,Pando,28111
+2021-08-27,segunda,Potosi,102343
+2021-08-27,segunda,Santa Cruz,536430
+2021-08-27,segunda,Tarija,154725
+2021-08-27,única,Beni,1816
+2021-08-27,única,Chuquisaca,25183
+2021-08-27,única,Cochabamba,120186
+2021-08-27,única,La Paz,147490
+2021-08-27,única,Oruro,21715
+2021-08-27,única,Pando,0
+2021-08-27,única,Potosi,42117
+2021-08-27,única,Santa Cruz,268637
+2021-08-27,única,Tarija,26037
+2021-08-28,primera,Beni,119461
+2021-08-28,primera,Chuquisaca,185545
+2021-08-28,primera,Cochabamba,577888
+2021-08-28,primera,La Paz,740993
+2021-08-28,primera,Oruro,161347
+2021-08-28,primera,Pando,43648
+2021-08-28,primera,Potosi,147885
+2021-08-28,primera,Santa Cruz,989360
+2021-08-28,primera,Tarija,219370
+2021-08-28,segunda,Beni,61882
+2021-08-28,segunda,Chuquisaca,125367
+2021-08-28,segunda,Cochabamba,370347
+2021-08-28,segunda,La Paz,464051
+2021-08-28,segunda,Oruro,107872
+2021-08-28,segunda,Pando,28123
+2021-08-28,segunda,Potosi,103557
+2021-08-28,segunda,Santa Cruz,538176
+2021-08-28,segunda,Tarija,154872
+2021-08-28,única,Beni,1851
+2021-08-28,única,Chuquisaca,26229
+2021-08-28,única,Cochabamba,124117
+2021-08-28,única,La Paz,150254
+2021-08-28,única,Oruro,22916
+2021-08-28,única,Pando,0
+2021-08-28,única,Potosi,43595
+2021-08-28,única,Santa Cruz,277858
+2021-08-28,única,Tarija,26124
+2021-08-29,primera,Beni,119524
+2021-08-29,primera,Chuquisaca,185765
+2021-08-29,primera,Cochabamba,581486
+2021-08-29,primera,La Paz,745557
+2021-08-29,primera,Oruro,161376
+2021-08-29,primera,Pando,43654
+2021-08-29,primera,Potosi,148440
+2021-08-29,primera,Santa Cruz,993534
+2021-08-29,primera,Tarija,219399
+2021-08-29,segunda,Beni,62002
+2021-08-29,segunda,Chuquisaca,125821
+2021-08-29,segunda,Cochabamba,371924
+2021-08-29,segunda,La Paz,465643
+2021-08-29,segunda,Oruro,107950
+2021-08-29,segunda,Pando,28129
+2021-08-29,segunda,Potosi,103921
+2021-08-29,segunda,Santa Cruz,539856
+2021-08-29,segunda,Tarija,154935
+2021-08-29,única,Beni,1852
+2021-08-29,única,Chuquisaca,27076
+2021-08-29,única,Cochabamba,128173
+2021-08-29,única,La Paz,152740
+2021-08-29,única,Oruro,24148
+2021-08-29,única,Pando,0
+2021-08-29,única,Potosi,44937
+2021-08-29,única,Santa Cruz,286765
+2021-08-29,única,Tarija,26187
+2021-08-30,primera,Beni,123276
+2021-08-30,primera,Chuquisaca,193399
+2021-08-30,primera,Cochabamba,583054
+2021-08-30,primera,La Paz,749780
+2021-08-30,primera,Oruro,161888
+2021-08-30,primera,Pando,44335
+2021-08-30,primera,Potosi,159697
+2021-08-30,primera,Santa Cruz,994976
+2021-08-30,primera,Tarija,220492
+2021-08-30,segunda,Beni,63457
+2021-08-30,segunda,Chuquisaca,131625
+2021-08-30,segunda,Cochabamba,372822
+2021-08-30,segunda,La Paz,471431
+2021-08-30,segunda,Oruro,111188
+2021-08-30,segunda,Pando,28387
+2021-08-30,segunda,Potosi,105266
+2021-08-30,segunda,Santa Cruz,541096
+2021-08-30,segunda,Tarija,158599
+2021-08-30,única,Beni,2027
+2021-08-30,única,Chuquisaca,27443
+2021-08-30,única,Cochabamba,130022
+2021-08-30,única,La Paz,167491
+2021-08-30,única,Oruro,26910
+2021-08-30,única,Pando,0
+2021-08-30,única,Potosi,47862
+2021-08-30,única,Santa Cruz,306993
+2021-08-30,única,Tarija,26616
+2021-08-31,primera,Beni,123889
+2021-08-31,primera,Chuquisaca,193888
+2021-08-31,primera,Cochabamba,588860
+2021-08-31,primera,La Paz,755460
+2021-08-31,primera,Oruro,163055
+2021-08-31,primera,Pando,44555
+2021-08-31,primera,Potosi,160919
+2021-08-31,primera,Santa Cruz,1001434
+2021-08-31,primera,Tarija,221253
+2021-08-31,segunda,Beni,65585
+2021-08-31,segunda,Chuquisaca,135100
+2021-08-31,segunda,Cochabamba,375909
+2021-08-31,segunda,La Paz,474538
+2021-08-31,segunda,Oruro,112046
+2021-08-31,segunda,Pando,29266
+2021-08-31,segunda,Potosi,107152
+2021-08-31,segunda,Santa Cruz,545222
+2021-08-31,segunda,Tarija,159887
+2021-08-31,única,Beni,2153
+2021-08-31,única,Chuquisaca,28309
+2021-08-31,única,Cochabamba,134515
+2021-08-31,única,La Paz,171799
+2021-08-31,única,Oruro,28223
+2021-08-31,única,Pando,0
+2021-08-31,única,Potosi,52040
+2021-08-31,única,Santa Cruz,317541
+2021-08-31,única,Tarija,27062
+2021-09-01,primera,Beni,124461
+2021-09-01,primera,Chuquisaca,195932
+2021-09-01,primera,Cochabamba,588880
+2021-09-01,primera,La Paz,756698
+2021-09-01,primera,Oruro,164130
+2021-09-01,primera,Pando,44935
+2021-09-01,primera,Potosi,163074
+2021-09-01,primera,Santa Cruz,1001483
+2021-09-01,primera,Tarija,221783
+2021-09-01,segunda,Beni,66672
+2021-09-01,segunda,Chuquisaca,138461
+2021-09-01,segunda,Cochabamba,376299
+2021-09-01,segunda,La Paz,480736
+2021-09-01,segunda,Oruro,113405
+2021-09-01,segunda,Pando,29776
+2021-09-01,segunda,Potosi,109201
+2021-09-01,segunda,Santa Cruz,546150
+2021-09-01,segunda,Tarija,161058
+2021-09-01,única,Beni,2587
+2021-09-01,única,Chuquisaca,28622
+2021-09-01,única,Cochabamba,136315
+2021-09-01,única,La Paz,178974
+2021-09-01,única,Oruro,28347
+2021-09-01,única,Pando,0
+2021-09-01,única,Potosi,54973
+2021-09-01,única,Santa Cruz,317541
+2021-09-01,única,Tarija,27163
+2021-09-03,primera,Beni,125325
+2021-09-03,primera,Chuquisaca,197447
+2021-09-03,primera,Cochabamba,588961
+2021-09-03,primera,La Paz,759013
+2021-09-03,primera,Oruro,165766
+2021-09-03,primera,Pando,45869
+2021-09-03,primera,Potosi,166007
+2021-09-03,primera,Santa Cruz,1001617
+2021-09-03,primera,Tarija,222512
+2021-09-03,segunda,Beni,69029
+2021-09-03,segunda,Chuquisaca,140777
+2021-09-03,segunda,Cochabamba,378476
+2021-09-03,segunda,La Paz,485585
+2021-09-03,segunda,Oruro,114879
+2021-09-03,segunda,Pando,30822
+2021-09-03,segunda,Potosi,112605
+2021-09-03,segunda,Santa Cruz,548501
+2021-09-03,segunda,Tarija,162472
+2021-09-03,única,Beni,3201
+2021-09-03,única,Chuquisaca,29131
+2021-09-03,única,Cochabamba,139057
+2021-09-03,única,La Paz,188089
+2021-09-03,única,Oruro,28794
+2021-09-03,única,Pando,0
+2021-09-03,única,Potosi,56970
+2021-09-03,única,Santa Cruz,317732
+2021-09-03,única,Tarija,27412
+2021-09-04,primera,Beni,125639
+2021-09-04,primera,Chuquisaca,197922
+2021-09-04,primera,Cochabamba,589022
+2021-09-04,primera,La Paz,759798
+2021-09-04,primera,Oruro,166371
+2021-09-04,primera,Pando,46283
+2021-09-04,primera,Potosi,167140
+2021-09-04,primera,Santa Cruz,1001679
+2021-09-04,primera,Tarija,222898
+2021-09-04,segunda,Beni,69765
+2021-09-04,segunda,Chuquisaca,141376
+2021-09-04,segunda,Cochabamba,379161
+2021-09-04,segunda,La Paz,487996
+2021-09-04,segunda,Oruro,115337
+2021-09-04,segunda,Pando,30952
+2021-09-04,segunda,Potosi,114133
+2021-09-04,segunda,Santa Cruz,550250
+2021-09-04,segunda,Tarija,162872
+2021-09-04,única,Beni,3420
+2021-09-04,única,Chuquisaca,29328
+2021-09-04,única,Cochabamba,140025
+2021-09-04,única,La Paz,190608
+2021-09-04,única,Oruro,29066
+2021-09-04,única,Pando,0
+2021-09-04,única,Potosi,57763
+2021-09-04,única,Santa Cruz,317830
+2021-09-04,única,Tarija,27806
